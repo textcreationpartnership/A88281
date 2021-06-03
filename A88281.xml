@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An easie and familiar method whereby to iudge the effects depending on eclipses, either of the sun or moon. By William Lilly student in astrologie</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 95KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88281</idno><idno type="EEBO-CITATION">99899515</idno>
+  <idno type="VID">154045</idno>
+  <idno type="EEBO-PROQUEST">2248513822</idno>
+  
+            <idno type="STC">Wing L2219</idno>
+            <idno type="STC">Thomason E656_24</idno>
+            <idno type="STC">ESTC R202716</idno>
+            <idno type="PROQUEST">99899515</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899515e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2395:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An easie and familiar method whereby to iudge the effects depending on eclipses, either of the sun or moon. By William Lilly student in astrologie</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the Company of Stationers, and H. Blunden, at the Castle in Corn-Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march 22. 1651"; also the last number of the date has been marked through.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Eclipses --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Solar eclipses --  1652 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154045:1"/>
+            <p>AN EASIE AND FAMILIAR METHOD WHEREBY TO Iudge the effects depending ON ECLIPSES, Either of the Sun or Moon.</p>
+            <p>
+               <hi>By</hi> WILLIAM LILLY <hi>Student in Astrologie.</hi>
+            </p>
+            <q>Non nobis nati sumus; partim patria, partim amici vendicant.</q>
+            <p>LONDON, Printed for the Company of Stationers, and <hi>H. Blunden,</hi> at the Castle in Corn-Hill, 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:154045:2"/>
+            <pb facs="tcp:154045:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Intended in 1648. to have Printed this small discourse for judging of Eclipses, (for so long time it hath layn by me;) how or by what means it was not then done, I doe not now remember; such as it is, I here present unto the young Students, intending by the blessing of Al<g ref="char:EOLhyphen"/>mighty God, one day or other to inlarge it; in the mean time accept of it, and of <hi>Ptolomy</hi>'s own Method, though somewhat more harsh, which I have also taken care to be Printed together with mine. Severall per<g ref="char:EOLhyphen"/>sons, and men of great learning have trea<g ref="char:EOLhyphen"/>ted of Eclipses, but as yet I cannot well ap<g ref="char:EOLhyphen"/>prove of their Method or wayes, being their Doctrines are full of intricacies, too
+<pb facs="tcp:154045:3"/> too much to puzzle any younger brother. I will indeavour with Captain <hi>Wharton,</hi> or Master <hi>Harflet,</hi> to frame some Tables, and print them in their next labours, whereby without any prolixity, thou mayst sind ei<g ref="char:EOLhyphen"/>ther the day when the effects shall begin, or the continuance of them.</p>
+            <closer>
+               <signed>W. LILLY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154045:3"/>
+            <head>A Short Method how to judge the effects of <hi>Eclipses,</hi> and what events may be expected from them.</head>
+            <p>
+               <seg rend="decorInit">A</seg>N Eclipse<note place="margin">What an E<g ref="char:EOLhyphen"/>clipse is.</note> is no other thing than an Interception or privation of the Light of the Luminaries, <hi>viz.</hi> Of the Sun and Moon, A Lunar Eclipse, or of the Moon, is privation of Light in the Moon, occasioned by interposition of the Earth between the Sun and the Moon; a Solar Eclipse is an intercep<g ref="char:EOLhyphen"/>tion or obscuration of the Light of the Sun, caused by interposition of the Moons body between the Sun and out sight.</p>
+            <p>Of these Eclipses, some are <hi>totall,</hi> others but in part; we may call an Eclipse <hi>totall,</hi>
+               <note place="margin">So that when the Digits E<g ref="char:EOLhyphen"/>clipsed are less then 12. it is not a totall <hi>E<g ref="char:EOLhyphen"/>clips.</hi>
+               </note> in respect of the obscuration of the whole body of the Light, so far as it occupies the whole body of the Luminarie, distinguished into twelve Digits by the wisdome of Astronomers; a partill Eclipse, or but in part, is when those twelve Digits or parts of the Luminar body are not all of them darkned: so then we say, an Eclipse of the Sun is ever upon the new Moon or change, an Eclipse of the Moon is alwaies upon her opposition with the Sun or upon the full Moon, which is all one. In every Eclipse there are
+<pb n="2" facs="tcp:154045:4"/> four things considerable, after you have erected the Scheme and reduced the Planets to the Meridian desired.</p>
+            <p n="1">1. <hi>Unto what Region, Kingdom, City or People the effects of the Eclips shall appertain.</hi>
+            </p>
+            <p n="2">2. <hi>The time is to be inquired,</hi> viz. <hi>Either when the effect shall begin, or how long time the events of an Eclips shall con<g ref="char:EOLhyphen"/>tinue.</hi>
+            </p>
+            <p n="3">3. <hi>What events may be expected from the Eclips.</hi>
+            </p>
+            <p n="4">4. <hi>The Quality, or Species of them, whether they intend War or Famine,</hi> &amp;c. <hi>Whether plenty or dearth,</hi> &amp;c. <hi>Or who, or what people shall doe best if they signifie War,</hi> &amp;c.</p>
+            <div type="part">
+               <head>To know unto what Kingdom or City the effects shall belong.</head>
+               <p>IN every great Eclips of the Sun or Moon, you must observe the place of the Zodiack, that is, in which of the twelve Signs the Defect is in, and consider the Kingdoms, Cities, or Countries subject unto that Sign, according to their severall distributions, which we have sufficiently performd in our In<g ref="char:EOLhyphen"/>troduction in <hi>Page</hi> 93, 94, 95, 96, 97, <hi>&amp;c.</hi>
+               </p>
+               <p>You must also observe the Ascendant or Mid-Heaven at the time of the building of any City, and the place or Signs wherein either the Sun or Moon were at that time, and see if the Sign wherein the Eclips is, be any of those Signs yea or no! You are also to take notice if the Mid-Heaven, <hi>viz.</hi> or Sign culminating of the King or Principall Governour of that Kingdom, Metropolitane City or Country, <hi>viz.</hi> If the Sign wherein the Eclips is; be his, <hi>viz.</hi> the Kings or Governours Mid-Heaven, or if at his birth either of the Lights, <hi>viz.</hi> Sun or Moon, were near the Degree Eclipsed, or where the present defect is. For you shall usually find, that where the Ascendant, or Mid-Heaven of those Cities or men doe concurre with the place of Heaven Eclipsed or defective, that in a great measure the effects shall appear and manifest themselves upon those men, Kings, or Rulers, Kingdoms, or Cities, especially if the
+<pb n="3" facs="tcp:154045:4"/> Eclips be above the Earth, for all Eclipses are held to extend their effects most forcibly when above the Earth, weakly and not so vigorously when under the Earth; but that they have also then some manifest operation greater or lesser, I could mani<g ref="char:EOLhyphen"/>fest by many examples of Eclipses in this age, and confirm my own judgement by the opinion of severall learned men; I shall instance only <hi>Cardan Seg.</hi> 7. <hi>Apho.</hi> 81. <hi>Eclipsis in quarto Domo juxta Caeli I mum, validiores quam in octavo vel duodecimo loco, &amp; in prima Domo quam in nona vel undecima,</hi> Eclipses in the fourth House or Heaven, are more forcible than those in the eighth or eleventh, those in the first more strong than they in the ninth or twelfth, and it must be acknowledged that although Eclipses in the first House cannot be vi<g ref="char:EOLhyphen"/>sible, yet we are by no Author prohibited to judge them, nay <hi>Leovitius</hi> the most painfull man that ever wrote in Astrology and of Eclipses, doth deliver many judgements and predictions upon Eclipses falling in the Ascendant it self, and that I may not proceed to former times, let us consider that in <hi>June,</hi> 1648, <hi>viz.</hi> the 10<seg rend="sup">th</seg>. day, 12<seg rend="sup">th</seg>. hour, 38. <hi>P. M.</hi> an Eclipse of the ☉. was in 0. d. 3. m. of ♋. near the Cusp of the fourth House; ♋. is the Ascendant of <hi>Scotland,</hi> then did that people raise their Malignant Army, which in <hi>August</hi> 1648. Plunder'd our Northern Counties. Because I would leave no scruple in the minds of young Students, I shall by example explain this Chapter more fully. In the Eclips of 19. <hi>No.</hi> 1648. you see the ☉. was in the 8. d. 44. of ♊. If the Astro<g ref="char:EOLhyphen"/>logian know any man, who had in the Radix of his Nativity either the Sun or Moon in that degree, or in the degree op<g ref="char:EOLhyphen"/>posite, <hi>viz.</hi> 8. d. 44. of ♐. or in the like degrees of <hi>Virgo</hi> or <hi>Pisces,</hi> which Signs are in Quadrate Aspects to the former, or if the degree Culminating in any mans Nativity was either the 9. of ♊. ♐. ♍. or ♓. or if the degree Ascending was in those degrees, or within one degree thereof, the native did suffer more or less by the influence of this Eclips; according to the signification of the House of Heaven, wherein the ☉. or Moon
+<pb n="4" facs="tcp:154045:5"/> was in at the Birth, and was either well fortified, or aspected of the benevolent Planets, or ill aspected, or afflicted of the Malevolents. If you have the Ascendant of a City, Town, or Corporation, or if you have the Radix or positure of hea<g ref="char:EOLhyphen"/>ven, of a family, or any new or oId Inception, <hi>&amp;c.</hi> do therein as formerly directed: ever observing that the more Digits E<g ref="char:EOLhyphen"/>clipsed, the greater the Eclips is, and by how much more neer to an Angle the Eclips falls, the more strong and forcible will the Effects demonstrate themselves. <hi>London</hi> is subject to the Sign ♊ as in Page 95. of our Introduction appears <hi>Ergo,</hi> much trouble it did produce there, as also to <hi>Spain</hi> subject to ♐ <hi>vide Pag.</hi> 97. so. <hi>Portugall, vide pag</hi> 99. <hi>Paris</hi> also in <hi>France, vid. pag.</hi> 96. <hi>Charles,</hi> late King of <hi>England,</hi> had the Sun in 8. deg. and 3. min. of <hi>Sagitarius:</hi> and this Eclips 19. <hi>Nov.</hi> 1648 of the ☽ was celebrated the day of the Revoluti<g ref="char:EOLhyphen"/>on of his Birth, she being in 8. deg. 44 of ♊. in direct oppositi<g ref="char:EOLhyphen"/>on to the place of the Sun; who also hastened unto an opposi<g ref="char:EOLhyphen"/>tion of <hi>Saturn.</hi> We know how suddenly after he was beheaded.</p>
+            </div>
+            <div type="part">
+               <head>Of the time when the Events shall appear.</head>
+               <p>YOu are to observe in every Region where the Eclips is vi<g ref="char:EOLhyphen"/>sible, that so many hours as an Eclips of the Sun conti<g ref="char:EOLhyphen"/>nues, so many years the effects or <hi>Events</hi> of a <hi>Solar Defect</hi> shall continue, and so parts of hours, shall signifie parts of the year proportionable to the minutes of the hour; but in an E<g ref="char:EOLhyphen"/>clips of the Moon, so many hours as she is defective or suf<g ref="char:EOLhyphen"/>fers an Eclips, so many moneths the <hi>Events</hi> thereby signified shall continue; As the <hi>Lunar</hi> Eclips 1649. continuing from the beginning to the end 3. hours and 33 minutes, the effects of it did operate three whole months and a half, and two dayes, <hi>&amp;c.</hi> wherein you must observe, that in the Duration of all Eclip<g ref="char:EOLhyphen"/>ses, the length of the hour is according to the Equall hour, or 60 minutes for one hour, and not the Artificiall or Astrono<g ref="char:EOLhyphen"/>micall hour, being more or lesse unequall by reason of the
+<pb n="5" facs="tcp:154045:5"/> motion of the Sun, and length or shortness of the day.</p>
+               <p>The beginning, the increase, and determination of the ef<g ref="char:EOLhyphen"/>fects are known, by that place or part of the Scheme of hea<g ref="char:EOLhyphen"/>ven wherein the Eclips is, having relation to the Angles of the figures.</p>
+               <p>For when the place Eclipsed, or Eclips it self, shall be in the Ascendant,<note place="margin">When the Ef<g ref="char:EOLhyphen"/>fects shall be<g ref="char:EOLhyphen"/>gin.</note> the effects shall then begin in the 1, 2, 3, and 4. moneths next after appearance of the Eclips, but its greatest vigour, and most materiall accidents design'd from that E<g ref="char:EOLhyphen"/>clips, shall shew themselves in the first third part of time al<g ref="char:EOLhyphen"/>lotted to the universall Duration thereof.</p>
+               <p>But if the place defective, or Ecclips it self, be in the Mid-heaven, or neer it, the effects shall begin in the 5, 6, 7, and 8. months, taking place from the beginning of the Eclips, and shall operate most forcibly in the second division of time al<g ref="char:EOLhyphen"/>lotted to the whole continuance; but if the Eclips be in the Angle of the West or seventh house, the first apparition of the effects shall be in the 9, 10, 11, and 12. last months after the Eclips, and the most vehement effects in the third Trient or part of time assigned for continuance of the Eclipsar effects. These last lines require an easie explanation, and some perfect Method, else we shall not benefit either the more Antient or Modern Scholar in these our Astrologicall well-wishes. This Method you must understand, and constantly follow, <hi>viz.</hi> if an Eclips be in the Ascendant, or neer unto it, and it doth signifie either <hi>War, Famine, Plague, Tumults, Murders, &amp;c.</hi> its then in<g ref="char:EOLhyphen"/>tended, that such like things shall begin their operation, and to appear, within the first four months after the day of the Eclips; and whereas we mention that it shall most forcibly operate in the third part of time allotted unto the whole du<g ref="char:EOLhyphen"/>ration of its effects, which <hi>Ptolomy</hi> calls <hi>Prima Triens,</hi> the true meaning of our words and his are these, <hi>viz.</hi> that if a <hi>Solar</hi> Eclips be of one hour and one half hours continuance, and be neer the Ascendant, or in it, that then in the four first moneths next succeeding the day of the Ecclips, the effects
+<pb n="6" facs="tcp:154045:6"/> thereof, or of that Eclips, shall begin, and shall operate most forcibly by the space of six months succeeding next after those four months, and then shall after by little and little decrease and vanish for 18. moneths, being the whole time limited for continuance of the Effects, the first six moneths are the first third part of time for continuation of the effects, the middle six months are the second <hi>Trient,</hi> as <hi>Ptolomy</hi> calls it, and the last six months are the third <hi>Trient,</hi> or third part of time. Again, if the Ecclips be in, or neer the Mid heaven, then the Matter or thing signified by that Eclips shall apparently de<g ref="char:EOLhyphen"/>clare it self, betwixt the fourth and eighth months from the hour of the Eclips; and for the next six months immediatly succeeding, that is during the ninth, tenth, eleventh, twelfth, thir<g ref="char:EOLhyphen"/>teenth and fourteenth months from the time or day of the Eclips, the Plague or matter signified shall begin to appear, and to increase moderatly; but in the fifteenth, sixteenth, seven<g ref="char:EOLhyphen"/>teenth, eighteenth, nineteenth, twentieth months from the hour of the Eclips, the thing or business designed, shall most effectu<g ref="char:EOLhyphen"/>ally operate, and the last six months begin to lessen and de<g ref="char:EOLhyphen"/>cline, <hi>&amp;c.</hi> Again, let the Eclips be neer the Cusp of the seventh House, or in that House, then the effects depending thereon, shall begin to be active and take place, from the eighth month untill the twelfth, to be accounted from the day of the Eclips, and then for twelve whole months next after, the effects shall operate very sensibly and to purpose, but in the last six months of that whole time assigned for its continuance, the Plague, Pestilence, or Famine signified thereby, shall be in greatest force, and doe most mischief; From hence it appears, an Eclips according to the Doctrine of <hi>Ptolomy</hi> shall begin to declare its effects within one year next after the day of its being; nor can the effects of a <hi>Solar Eclips</hi> continue, or be extended above three years and one half, or of a <hi>Lunar Eclips</hi> above six months, <hi>&amp;c.</hi> so that <hi>Haly</hi> and those adhering unto him were much deceived, <hi>&amp;c.</hi>
+               </p>
+               <p>But if you will judge when particular remissions, or more
+<pb n="7" facs="tcp:154045:6"/> hasty Intensions, shall be, or in more plain language, if you would know when the effects would work with great force, when more slowly, you must take notice thereof from the se<g ref="char:EOLhyphen"/>verall Conjunctions, Oppositions, or Quadratures which shall be made either in that part, <hi>viz.</hi> degree of the Sign wherein the Ecclips was, or in such parts of the Zodiack, <hi>viz.</hi> in such degrees of the Signs as behold that place so eclipsed, as also from the severall Quadratures and Oppositions of other Pla<g ref="char:EOLhyphen"/>nets as well as of the Sun and Moon, or their arising, or first appearance above the Horizon, together with either of the Lights in that place of the Zodiack, and which have signifi<g ref="char:EOLhyphen"/>cation in determining the Events of that Eclips you do Astro<g ref="char:EOLhyphen"/>logically judge of, and these especially, when either in the As<g ref="char:EOLhyphen"/>cendant or seventh House, or in their Stations, or in their Ves<g ref="char:EOLhyphen"/>pertine rising, <hi>viz.</hi> When they first appear upon the Suns set<g ref="char:EOLhyphen"/>ting, they aspect the Signs and degrees where the Eclips was. The rising of the Planets and their Stations in those places or parts wherein the Eclips was, declare the increase and greatness of the Events which are to succeed. But when those Starrs or Planets are either under the Sun beams, or in their Vespertine rising, they intend a more remissnesse, and not so strong events to succeed. By Station is intended, when a Planet comes to be Stationary, or to stand still, and to move very little in any de<g ref="char:EOLhyphen"/>gree of the Zodiack, either in the degree eclipsed, or opposition thereof, or in Dexter or sinister Quadrate unto it. Its believed by many, and found true by experience, that when a Planet is stationary, he is then by reason of his standing still, firm and able to settle an impression; but when a Planet is under the Sun beams, he resembles a man limited, and one that hath none or little power of himself or a masculine Planet having power in the said places when he first rises above the Earth, after the Sun set is conceived to produce very small, or but weak effects in any Eclips, or Conjunction of the superiour Planets.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:154045:7"/>
+               <head>Of the kind or quality of Events.</head>
+               <p>THat this be artificially, and with judgement performed; first, you must Erect the scheme of heaven for the middle time of the Eclips, and reduce the Motion of the ☉, ☽, and other Planets to your own Meridian, or to that place of the world, for which you intend to erect the figure, and thereupon to give judgement, and then seriously considering the degree of the Signe wherein the Eclips is, (the Sign I mean wherein the Sun is, if it be a <hi>Solar Eclips,</hi> the Sign wherein the Moon is, if it be a <hi>Lunar Defect.</hi>) Consider also the place, <hi>Asterisme,</hi> Sign and degree of the Zodiack, in the Angle next following the Eclips, as if the Eclips be in the ninth eighth or seventh, you are to consider what Planet hath most power and dignities in the tenth house for that is the Angle succeeding them; but if the Eclips be in the tenth, eleventh, or twelfth, then you must see to the fortitude of that Planet who hath most dignities essentiall in the Ascendant, that being the Angle sub<g ref="char:EOLhyphen"/>sequent to the Eclips, being in the 10, 11, or 12th house. Here<g ref="char:EOLhyphen"/>in you must reckon no dignities unto any Planet, but what that Planet hath either by house exaltation, triplicity, terme or face, accidentall fortitudes or dignities in this judgement are not admitted. For that Planet who hath most dignities in the place, <hi>viz.</hi> in the signe and degree Ecclipsed, and Angle succeeding it, <hi>viz.</hi> in the signe and degree either culminating or ascending he shall be Lord of the Eclips, or principall Ru<g ref="char:EOLhyphen"/>ler; but if it happen that one Planet alone have not most Do<g ref="char:EOLhyphen"/>minion or greatest fortitudes in the place Eclipsed and Angle subsequent but that there are two which may equally chal<g ref="char:EOLhyphen"/>lenge Prer'ogative he shall be preferred who is Lord of the place, or S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gne Eclipsed, and the other Planet shall be joyned with him in signification▪ who agreeth to either place and shall be called Partner in judgement. But if many Planets have equall dignity in the aforesaid places, and do also behold
+<pb n="9" facs="tcp:154045:7"/> both the place eclipsed, and succeeding Angles, wee mean not the whole signe, but the degree, that Planet shall be preferred who is in Situation or Position neerest to an Angle, or more powerfull in signification, or more agreeable in quality, that is in nature, or by triplicity. Concerning the fixed Star or stars which shall participate in judgement, this is generally obser<g ref="char:EOLhyphen"/>served, to take that fixed star which at the time of the Eclips doth precede the place Eclipsed in an Angle, and is of great or eminent Magnitude, <hi>viz.</hi> of the first or second, and hath little Latitude, but is seated neer the Ecliptick line, or which at that instant time of the Defect doth arise or Culminate, following the place eclipsed, the preceding words are thus to be under<g ref="char:EOLhyphen"/>stood, <hi>viz.</hi> that if an Eclips be between the seventh house and the Mid-heaven, most consideration is to be had unto that fixed Star which possesseth the Angle of the 7th, for that Star pre<g ref="char:EOLhyphen"/>cedes; next who are in the 10th house, for they follow; but if the Eclips be between the Mid-heaven and Ascendant, those fixed starrs in the Mid-heaven are preferr'd before those in the Ascendant.</p>
+               <p>The <hi>Asterisme</hi> also or Constellation in which the Eclips is, as also the principall ruler or rulers of the Eclips,<note place="margin">Other nota<g ref="char:EOLhyphen"/>ble considera<g ref="char:EOLhyphen"/>tions.</note> are most to be considered, as also the Signe wherein the Eclips it self is, for such signes in the Zodiack and Constellations which have humane shape or form, have signification of men, and things humane; Terrestriall signes signifie according to the forms and shapes thereof; Signes that signifie the milder creatures or Beasts show losse and damage in such like beasts as are usefull for man, according to the reason of the singular shapes, forms, and figures thereof, whether they be of horses, oxen <hi>&amp;c.</hi> Septentrionall Constellations, shew sudden Earthquakes, Me<g ref="char:EOLhyphen"/>ridionall declare inexpected and great showres. When the Eclipticall place is either in <hi>Virgo</hi> or <hi>Sagitary,</hi> damage fol<g ref="char:EOLhyphen"/>lows to such fowl as men feed on, but if it be in watry Signes or Constellations, much of the Event shall appear in the waters, at Sea, and in fish, or fishing, and to men Naviga<g ref="char:EOLhyphen"/>ting;
+<pb n="10" facs="tcp:154045:8"/> yet if it fall out in <hi>Aquarius</hi> or <hi>Pisces,</hi> men receive great losse by overflow of Rivers, and swelling of Foun<g ref="char:EOLhyphen"/>tains.</p>
+               <p>When the Eclips is in Tropick or Aequinoctiall signes, <hi>viz.</hi> in ♈, ♋, ♎, ♑, Commonly the Eclips is prejudiciall to the ayr and the present season. In the Spring it destroys the growth of such herbs as spring out of the earth, and the budding and blossoming of trees. In the Summer solstice, it hurts the corn, and lessens the burthen of fruit; In the Autumnall equinoctiall it prejudiceth the seed; in the Winter it gives too much moi<g ref="char:EOLhyphen"/>sture: When the Eclips is also in ♈ or ♎, there followes Con<g ref="char:EOLhyphen"/>troversies in Religion, or some change or alteration; in Tropicks, <hi>viz.</hi> ♋ or ♑, alteration of ayr, and of Offices or places or Go<g ref="char:EOLhyphen"/>vernments.</p>
+               <p>Fixed signes, as ♉ ♌ ♒ ♏, shew much adoe about build<g ref="char:EOLhyphen"/>ings, double-bodied signes, as ♊ ♍ ♐ ♓. threaten matter to Kings, Princes, or principall Magistrates.</p>
+               <p>Those Defects which happen in the first house, have relati<g ref="char:EOLhyphen"/>on to fruits, or to youth, or matter newly begun, in the Mid-heaven, to Kingdomes, Cities, or Countries, Kings and Princes, or Nobles, or persons of quality, or men of middle age; in the West or 7th house. the change and mutation of Lawes, Customes, Contentions, Law-sutes, Quarrels, Warres, the death of aged men, for the most part some slaughter or bloodshed.</p>
+               <p>The greater the Defect is, and the stronger the principall Ruler or Rulers of the Eclips is or are, so much more famous and eminent are the effects of the Eclips. All effects are di<g ref="char:EOLhyphen"/>minished when the Eclips of the Sun is neere his setting, or of the ☽ to her Matutine rising, but when any Eclips of the Sun is in the Morning or Matutine, or of the Moon Vespertine or towards Sun-setting, the evils signified thereby are in<g ref="char:EOLhyphen"/>creased, and the effects operate most vigorously. <hi>Leovi<g ref="char:EOLhyphen"/>tius</hi> doth deliver a Method for finding the time when the effects of an Eclips shall begin, in his book in <hi>fol. De eclipsi<g ref="char:EOLhyphen"/>bus,</hi>
+                  <pb n="11" facs="tcp:154045:8"/> but because the operation is troublesome, and doth no<g ref="char:EOLhyphen"/>thing conduce for enlarging the Students judgement, and also because it would make our book swell too too much, I leave further discourse thereof.</p>
+            </div>
+            <div type="part">
+               <head>What manner of Events shall happen, and whether they shall be Good or Ill.</head>
+               <p>THis Doctrine being most necessary and profitable, is naturally thus deduced, <hi>viz.</hi> from the nature of the predominating Planets in the principall places of the figure, <hi>viz.</hi> in that signe of the Eclips and signe of the Angle subse<g ref="char:EOLhyphen"/>quent, their Commixtion one with an other, and with those places or houses of the Zodiack in which they are posited; in this signification you must not collect the dignities of the Sun or Moon, or make them significators of the kinds or qualities of the events; for they being Governours of other Planets, and the principall causes of events, commanding the power of other starrs, do either confirm or destroy the vertues of the predominant Planets.</p>
+               <p>The consideration of those Planets, who have most right, and greatest fortitude in their Commixtions, doth declare the quality and kind of the Events which may ensue after the Eclips, or of which the Eclips is Precursor. Bur let us begin with the Planets in their severall kinds, and first of <hi>Saturn</hi> when he is principall Ruler of, or Lord of the Eclips, or when any fixed starre of his nature doth most principally manifest the effects of the Eclips.</p>
+               <p>
+                  <label>When ♄ is Lord of the Eclips.</label> He is generally the cause of corruptions by reason of cold, more properly he declares continued diseases in the bodyes of men, as wasting of the body, or a consumption which hath its originall from some deflux of Reume, hee denotes Distur<g ref="char:EOLhyphen"/>bance of the radicall Humours, Fluxes, Quartane Agues, Ba<g ref="char:EOLhyphen"/>nishments, Poverty, Miserie, Lamentation, vain fears, morta<g ref="char:EOLhyphen"/>lity of old men especially: A scarcity of such Cattell as are
+<pb n="12" facs="tcp:154045:9"/> usefull for mankind, afflicting those Cattle which escape Death with diseases, so that men are infected that use those Cattle, or after the Cattles death feed upon them; In the ayr, hee stirs up most horrible colds, frosty and Icy weather, cloudy and pestilent, the ayr oftentimes mo<g ref="char:EOLhyphen"/>lested; long continued frosts, thick clouds, mysty foggy weather, much darkness, aboundant Snows nothing profi<g ref="char:EOLhyphen"/>table but destructive, from whose corruptions many poyso<g ref="char:EOLhyphen"/>nous and hurtfull creatures proceed. In the Rivers and the Sea commonly he stirs up most bitter tempests, sudden and manifold Shipwracks, difficult and dangerous voyages and passages, scarcity of Corne, and a dearth of Fish and Water-Foul. Generally in the Sea peculiar Recesses or back<g ref="char:EOLhyphen"/>slidings of the Sea from its former bounds and banks, leaving thereby its former Chanels. In Rivers there are great over<g ref="char:EOLhyphen"/>flowings, violent Inundations and corruption of the Waters; upon Earth there follows scarcity of Grain, Fruit and Corn, all things very dear, all manner of provisions scanty and rare<g ref="char:EOLhyphen"/>ly to be had, such especially which conduce to the preservation of mans life; destruction of Fruits by Cater-pillars, Worms, Locusts, <hi>&amp;c.</hi> Of Grass and Hay by floods, by immoderate showers, or by suddain Hail-storms, and furious tempests, so that men perish by Famine and such like casualties, and beasts by the unseasonable getting in of Winter provisions, and the unnaturall nourishment of that food they eat: old men dye more plentifully, or more aboundance of them perish than in other years; much rancour and malice and stiff Law-Sutes doe rage amongst the vulgar Clowns or Country people.</p>
+               <p>
+                  <label>Of ♃. when he alone is Ruler of the Eclips.</label> When ♃ alone hath the chiefest Dominion in an Eclips, ge<g ref="char:EOLhyphen"/>nerally he produceth the increase of all things; and when the Event appertains unto men, he signifies glory, fertility, tran<g ref="char:EOLhyphen"/>quillity and peace; every man thrives and becomes rich, each man signified by him enjoys health and quiet of mind hee promiseth gifts and favours from Kings, he adorns Gover<g ref="char:EOLhyphen"/>nours
+<pb n="13" facs="tcp:154045:9"/> or Magistrates with fame and estimation,<note place="margin">
+                     <hi>Viz.</hi> Hee sig<g ref="char:EOLhyphen"/>nifies such things unto man.</note> and to speak truly, he is the cause of all good things. He multiplies all li<g ref="char:EOLhyphen"/>ving creatures which are behoofefull for man, and portends destruction to such animals as are hurtfull unto man. In the ayr he declares a good and wholesome temperature, windy, moyst, or inclining to showrs; nourishing all living Creatures procreated from, or feeding on the fruits of the earth. Saylors and Merchants sayl without danger and make good voyages; the Rivers swell with no imoderate floods; plenty of all man<g ref="char:EOLhyphen"/>ner of fruit appears; Religious men increase in the Church, many whereof attain to very high preferments, or have great honours conferd on them; Ministers grow proud and haughty, (an easy sin in that generation;) The Laws are executed, and upright Judges are imployd by the States; <hi>New Customs or Priviledges are conferd on the people; New Corporations, new Honours,</hi> &amp;c.</p>
+               <p>
+                  <label>Of <hi>Mars</hi> when Lord of the E<g ref="char:EOLhyphen"/>clips.</label> When ♂ alone shall obtain the Government of an Eclips, hee generally is the cause of corruption in regard of his too much dryness, and this especially when he is in a fiery Sign. When the Events appertain unto men, he stirs up Wars, Seditions, intestine risings, and tumults, imprisonments, banishments, besieging and taking of towns and Cities, po<g ref="char:EOLhyphen"/>pular tumults, frowns of Princes upon severall of their Sub<g ref="char:EOLhyphen"/>jects, divers principall men suddenly arraigned, condemned and beheaded; moreover he portends Tertian Feavers, acute diseases, corruption of blood, or infirmities by breaking or stretching the veins, violent, untimely, and the sudden deaths of young men; he inclines Kings and Princes unto tyranny, violence, injuries and injustice; the Souldier to the firing of Houses, to Man-slaughters, Rapines, Thefts, Robberies on High-wayes, Law-Sutes, Duels. In the ayr he stirs up extra<g ref="char:EOLhyphen"/>ordinary soultry blasts and great heat, hot pestilent winds, pestiferous and infectious, thunder, lightning, whirl-winds, immeasurable droughts. In the Sea he occasions impetuous
+<pb n="14" facs="tcp:154045:10"/> storms, and denotes sudden and violent shipwracks by rea<g ref="char:EOLhyphen"/>son of inordinate blasts, <hi>&amp;c.</hi> In Rivers he lessens or dryes up the streams, and drains the fountains dry, corrupting all waters, causing putrefaction in them; he occasions or more naturally signifies scarcity of grain, and of all such things as are produced or grow out of the earth, either causing un<g ref="char:EOLhyphen"/>timely heats whereby nourishment sufficient cannot come to maintain the Root, or destroying the tender grain by un<g ref="char:EOLhyphen"/>seasonable dry blasts of wind ere it be mature, and by Mil<g ref="char:EOLhyphen"/>dews, <hi>&amp;c.</hi> Usually he excites mens minds to great rashness and fool-hardiness, provoking to Duels, to all manner of e<g ref="char:EOLhyphen"/>vils, as thefts, murders, <hi>&amp;c.</hi> Great dissension amongst kin<g ref="char:EOLhyphen"/>dred, much undutifulness in children, yet many times it fore<g ref="char:EOLhyphen"/>shews amongst Mechanicall men, some rare or admirable man produced to light.</p>
+               <p>
+                  <label>♀. When she only rules, the effects of an Eclips.</label>
+                  <hi>Venus</hi> generally in all things is like unto <hi>Jupiter,</hi> and pro<g ref="char:EOLhyphen"/>duceth such like effects, with a certain kind of gracefulness; Peculiarly she gives renown unto men, honour, cheerfulness, plentifull years in the fruits of the earth, or great increase of all harmless living creatures, delightfull marriages, numerous issues, firm friendships, constant Leagues, increase of mens e<g ref="char:EOLhyphen"/>states, cleanliness in diet and manner of living, reverence, o<g ref="char:EOLhyphen"/>bedience and conformity in Religion, mens bodies are sound and lusty, little needing Physick, much unity and good cor<g ref="char:EOLhyphen"/>respondency betwixt the King and his Subjects, a perfect un<g ref="char:EOLhyphen"/>derstanding betwixt the Magistrate and the vulgar people. In the ayr she stirs up temperate blasts of wind, moyst and fructifying, no unpleasing weather, or troublesome tempests, serene fair seasons in all parts of the year, very pleasing moy<g ref="char:EOLhyphen"/>stning showrs, succesfull Navigations, gainfull and advanta<g ref="char:EOLhyphen"/>gious to the Merchant, safe for his own person, wholesome for the Mariners In Rivers, it notes their gentle Inundation, and pretty swellings without harming any thing, not destructive or violently breaking forth, plenty of all manner of working-Cattle,
+<pb n="15" facs="tcp:154045:10"/> and abundance of all sorts of fruit growing forth and out of the earth, great store of Wine, Oyl and Figs; in gene<g ref="char:EOLhyphen"/>rall, its the fore-runner of a quiet peaceable time upon earth, I mean in those Countrys where the Eclips is visible.</p>
+               <p>
+                  <label>When ☿. is sole Ruler of the Eclips.</label> When <hi>Mercury</hi> of himself is Lord and principall Ruler of the Eclips, he generally assumes unto himself part of the nature of that Planet with whom he is in Aspect, or is cor<g ref="char:EOLhyphen"/>porally joyned unto, however he is the author of quick and violent motion; he declares in humane affairs celerity, in<g ref="char:EOLhyphen"/>dustry, craft and subtilty, in performing what is then upon the stage of this World; he shews the High-wayes obstructed with Thieves, and the Seas with Pyrates; he causeth men to be short breathed, and to fetch their wind difficultly, and when he is joyned with the Infortunes, he signifies dry disea<g ref="char:EOLhyphen"/>ses, Quotidian Feavers, the Ptisick, Consumptions, altera<g ref="char:EOLhyphen"/>tion in Ceremonies, Heresies and Schisms in Religion, detri<g ref="char:EOLhyphen"/>ment in the Revenues of Kings, and of the Nobles and Gen<g ref="char:EOLhyphen"/>try of the Kingdom; great controversy in the Customs, Laws and Priviledges of the people, and all this according to the nature of that Planet with whom he hath familiarity. In the (ayr, himself being dry and swift, and alwaies in motion near unto the Sun) he produces inordinate high-winds, sudden tempests quickly changing, thunders, lightnings, opening of the earth, and Earth-quakes; in regard of these properties his influence or effects are destructive to plants and living creatures: when he is Occidentall he lessens the growth or increase of Rivers, when Orientall he increaseth their streams, causing aboundance of waters. This is the nature of every Planet by himself, but being mixed with others, they have signification of other events, and effects, by reason of the va<g ref="char:EOLhyphen"/>riety of Aspects and Signs, and their position to the Sun, and so conveniently doe change the actions which they solely of themselves did signifie, but this Commixtion is left to the dis<g ref="char:EOLhyphen"/>cretion of every Astrologer, being impossible to give such
+<pb n="16" facs="tcp:154045:11"/> particular rules as in every Positure of Heaven would hold good.</p>
+               <p>
+                  <label>Who partici<g ref="char:EOLhyphen"/>pate in Eclip<g ref="char:EOLhyphen"/>ses.</label> In generall it is held for an assured Maxime, that as unto mens or womens Nativities, every Eclips of the Sun or Moon chancing in that very degree of the Sign, wherein either of them both were at the birth of any one, shall in one way or other be very fatall, or signifie somewhat very materiall unto that native I have found by experience that much af<g ref="char:EOLhyphen"/>fliction and trouble doe accompany those persons, who casu<g ref="char:EOLhyphen"/>ally in the course of their lives have an Eclips in either of the Signs and degrees, where either of the Luminaries were, or in the opposite degree, at the time of their birth, but I have not yet found that death did ensue, although either the Sun or Moon was at the B rth the only and principall <hi>Hyleg</hi> or <hi>Apheta</hi> (except in King <hi>Charls.</hi>) I doe attribute nothing to the colours in the Eclips, yet would wish every man in this na<g ref="char:EOLhyphen"/>ture to follow what he hath found true by experience.</p>
+               <p>
+                  <label>When either of the Lights are Eclipsed in the severall triplicities, what they sig<g ref="char:EOLhyphen"/>nifie.</label> There are some who doe much adhere unto the <hi>Arabick</hi> Doctrine in Astrology, have added what they thought fit for illustration of this learning concerning Eclipses, and doe say, that Eclipses of the Sun or Moon in the fiery triplicity, doe declare the death of Heards both of great and small Cat<g ref="char:EOLhyphen"/>tle, the banishment of some great King, Prince, or eminent man, or his imprisonment or beheading. Amongst the vulgar people, or men of somewhat better quallity, it excites enmity, jarring one with an other, much dissembling with each other, the motion of some great Army or Company of men, hor<g ref="char:EOLhyphen"/>rible Wars, slaughter of men, thefts, murders, many towns or places depopulated, women suffering by Abortions, sharp Feavers, strange apparitions in the ayr, Epidemicall diseases by reason of scorching heat; scarcity of fruit especially in those Countries which are subject unto the Sign Eclipsed, admirable mutation in many things.</p>
+               <p>When an Eclips happens in the earthly triplicity, there
+<pb n="17" facs="tcp:154045:11"/> follows scarcity of Corn, especially of fruit, and of all such things as are annually sown, or put into the earth.</p>
+               <p>An Eclips of either of the Lights in the airy triplicity shews famine, most violent and fierce sicknesses, pestilent diseases, stormy high-winds, very prejudiciall to mankind, and blowing down trees by the roots, and very many houses.</p>
+               <p>An Eclips of the Sun or Moon in the watery triplicity presages a rot or consumption of the vulgar sort of people, rumours, seditions, and expectation of Wars, destruction of Water Foul, great inundations and overflowings of the Sea<g ref="char:EOLhyphen"/>banks.</p>
+               <p>Again they affirm if an Eclips appear in <hi>Aries,</hi> it pro<g ref="char:EOLhyphen"/>duceth great alteration in fruits, as in tender Vines, corruption in Fig trees.</p>
+               <p>In <hi>Taurus, Leo, Scorpio</hi> or <hi>Aquarius,</hi> many antient buil<g ref="char:EOLhyphen"/>dings are ruinated or pull'd down, the divisions of the Cler<g ref="char:EOLhyphen"/>gy are high, they hate each other obstinately, and stir up tu<g ref="char:EOLhyphen"/>mults: a thing very frequent with them in all ages.</p>
+               <p>In <hi>Cancer,</hi> an Eclips procures a rottenness or corruption in the fruit when its gathered, occasioning surfets, and sick<g ref="char:EOLhyphen"/>nesses unto such as eat them; Sea fights, long and dangerous Navigations.</p>
+               <p>In <hi>Gemini</hi> or <hi>Sagittarius,</hi> an Eclips threatens destruction to flying Fouls, unto such especially, which men eat or feed upon, whereby many men come to suddain death.</p>
+               <p>In <hi>Virgo</hi> or <hi>Pisces,</hi> it signifies much harme to vegetable Plants, and to such creatures as live in the Water or of the Water it shews that very many fountains shall be corrupt and grow impure, and the River Waters not wholesome.</p>
+               <p>In <hi>Capricorn</hi> it denotes Olives to be devoured by Locusts, or Worms, many ships drowned, alteration in mens manners and conditions, peculiarly in those Cities or Countries sub<g ref="char:EOLhyphen"/>ject unto the Sign wherein the Eclips is.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:154045:12"/>
+               <head>Of the Sun Eclipsed in any one <hi>Decanate</hi> of the <hi>12.</hi> Signes.</head>
+               <p>
+                  <label>♈</label> WHen the Sun is Eclipsed in the first ten degrees of <hi>Aries,</hi> it portends the frequent Motions of Armies, and ru<g ref="char:EOLhyphen"/>mours of Warrs, continuall expeditions, assaults, and batte<g ref="char:EOLhyphen"/>ries, yea, and Wars, with much noyse and tumult; Seditions, Controversies, an intemperancy of the ayr verging principally unto drinesse.</p>
+               <p>When in the second <hi>Decanate,</hi> or from 10. to 20. degrees, it brings some King, Prince, or eminent officer to Prison or re<g ref="char:EOLhyphen"/>straint of Liberty, it adds sorrow and danger of Death unto him, destruction of the bearing fruit-trees, and it portends the rottennesse or putrifaction of such things as the earth produ<g ref="char:EOLhyphen"/>ces, whereby both man and beast are afflicted. When in the last 10. degrees of <hi>Aries,</hi> its the forerunner of lamentation, woes, and mourning, unto mortall men, or most sorts of men, and the death of some Noble woman; unto these I may adde, that it designes destruction unto the lesser Cattell, as Sheep, Conies, Goats, Hares, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <label>♉</label> An Eclips of either of the Lights in the first ten degrees of <hi>Taurus,</hi> afflicts such as are Negotiators, Solicitors▪ Agents, or are generally employed in mens affaires, or in the publick; it compells men to undertake unnecessary businesses, it brings to nought, and confounds all factions undertaken by the former sort of men, and is sufficiently hurtfull to Corn.</p>
+               <p>In the second <hi>Decanate,</hi> it shewes innumerable difficulties, and many discommodities to Travellers, and to such as bear Children many abortions, and births not naturall, or Mon<g ref="char:EOLhyphen"/>sters are produced.</p>
+               <p>In the third <hi>Face</hi> or <hi>Decanate,</hi> it signifies both Plague and Famine: mortality in and amongst Oxen, Cowes and Horses.</p>
+               <pb n="19" facs="tcp:154045:12"/>
+               <p>
+                  <label>♊</label> Eclipses in the ten first degrees of <hi>Gemini,</hi> stir up dissensi<g ref="char:EOLhyphen"/>ons, strifes, seditions amongst those we call Priests, and all man<g ref="char:EOLhyphen"/>ner of Merchants and Mechanicks of every Order, or any quality that is amongst them; Deadly hatred, contempt of Lawes, neglect of piety and holy duties doth also follow, so also breach of Covenants.</p>
+               <p>In the second <hi>Decanate</hi> or <hi>Face,</hi> much Piracy at Sea, and Murders, many fruitlesse treaties, many turbulent Petitions presented by the people to their Superiours.</p>
+               <p>In the last <hi>Face</hi> of <hi>Gemini,</hi> when any Ecclips happens, the Death of some King or great Person follows; various and sundry losses unto the State publick, much action to no pur<g ref="char:EOLhyphen"/>pose in the Managing of the Civill affairs of the Common<g ref="char:EOLhyphen"/>wealth; Many simple Consultations and no Conclusions; Su<g ref="char:EOLhyphen"/>periour men grant Commissions, which inferiour Officers n<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver regard; much pratling, no action.</p>
+               <p>
+                  <label>♋</label> In the first ten degrees of <hi>Cancer,</hi> it disturbs the ayr, and stirrs up strange weather, and variety of it, inclines men to Arms, and to violate Nationall Leagues, deceitfully under the species of Religion.</p>
+               <p>In the second <hi>Decanate,</hi> it dryes up Rivers and Fountains, and intends much incontinency in men and women, and petu<g ref="char:EOLhyphen"/>lancy, or ill offices amongst mortall men, <hi>viz.</hi> one cunningly thrusting an other out of his place.</p>
+               <p>In the last <hi>Decanate,</hi> it emits the Pox (I conceive the French Pox) amongst the men of that Country subject unto <hi>Cancer,</hi> many diseases, and seditions or risings of the people, the vulgar man afflicted generally with the Dropsie, or such malevolent matter in his stomack as brings him to a Con<g ref="char:EOLhyphen"/>sumption.</p>
+               <p>
+                  <label>♌</label> In the first <hi>Face</hi> or <hi>Decanate</hi> of <hi>Leo,</hi> it premonstrates the Death of some certain famous Prince▪ as also great scarcity of Corn and grain; if the Prince misse death, he avoyds not
+<pb n="20" facs="tcp:154045:13"/> the occasion of many misfortunes and consumption of Trea<g ref="char:EOLhyphen"/>sure.</p>
+               <p>In the second <hi>Decanate</hi> it threatens great tribulation, and many damages unto Kings, Peers, and Prime of the Nobility; what is meant of persons of quality, must have relation to all Magistrates.</p>
+               <p>In the third <hi>Decanate,</hi> it presages Captivities, besieging of Towns, Plunderings▪ Profanation of holy places, a scarcity of Horses, or a destructive Murrain amongst them.</p>
+               <p>
+                  <label>♍.</label> In the first <hi>Decanate</hi> of <hi>Virgo,</hi> it argues the lamentable death, or pittifull end of some certain Prince or Nobleman, and a generall ruine or slaughter of men, scarcity of corn and all manner of sustenance fit for man.</p>
+               <p>In the second <hi>Decanate,</hi> it designes Famine Plague, and se<g ref="char:EOLhyphen"/>ditions, of mortall men, great drought, and thereby no plenti<g ref="char:EOLhyphen"/>full crops of Summer corn.</p>
+               <p>In the third <hi>Decanate,</hi> it powres down vengeance on poor Poets, Painters, or Limners, and men Mercuriall, who flourish with excellent understandings, nothing thrives with them, nor are their Purses full, it produces Murthers, Banishment, <hi>&amp;c.</hi> it imposeth on the vulgar Writers of those times, harsh con<g ref="char:EOLhyphen"/>ceptions, and no esteem of their rude Poems.</p>
+               <p>
+                  <label>♎.</label> In the first <hi>Decanate</hi> of <hi>Libra,</hi> it corrupts the ayr, begets the Plague, inclines youth to much wantonnesse, yet straitens provisions, and makes them dear.</p>
+               <p>In the second <hi>Decanate,</hi> it portends the Death of some eminent Prince or King, or Nobleman, and for breach of Customs, stirs up Seditions, and designs a Famine.</p>
+               <p>In the third <hi>Decanate,</hi> it premonishes of high Controver<g ref="char:EOLhyphen"/>sies amongst the Nobility, and great Detriment in their estates, much prodigality amongst them, and the extirpation of some one family.</p>
+               <p>
+                  <label>♏.</label> In the first <hi>Decanate</hi> of <hi>Scorpio,</hi> it moves and raises war<g ref="char:EOLhyphen"/>lick
+<pb n="21" facs="tcp:154045:13"/> tumults, murthers, dissentions, captivities, and cherishes underhand practices, or plots of Treasons.</p>
+               <p>In the second <hi>Decanate,</hi> it argues Destruction to some certain King, or person of worth, and declares his mind averse to Armies or warrs.</p>
+               <p>In the third <hi>Decanate,</hi> it portends the comming in of some stranger Tyrant, and the drowsie dulnesse and slothfulnesse of the former King odious unto all men; sometimes it portends a deposing of the then present Governour or King or great dislike with him.</p>
+               <p>
+                  <label>♐.</label> An Eclips in the first ten degrees, or first <hi>Decanate</hi> of <hi>Sagittarius,</hi> doth manifest most dangerous seditions amongst men, and renders mens minds averse to all manner of accom<g ref="char:EOLhyphen"/>modations, or Treaties; each man fearing deceit in the man he deals with, or one Prince fearing another will delude him.</p>
+               <p>In the second <hi>Decanate,</hi> it portends the Death, or much de<g ref="char:EOLhyphen"/>struction unto such Cattell as naturally bray, and of the big<g ref="char:EOLhyphen"/>ger sort of any such beasts as are usefull for man.</p>
+               <p>In the last <hi>Decanate,</hi> it afflicts severall manner of wayes Horses, and prejudiceth such Armies as then are on foot, all things and matters go hardly on with the Nobility, who wil<g ref="char:EOLhyphen"/>lingly and foolishly undo themselves to no purpose.</p>
+               <p>
+                  <label>♑.</label> In the first <hi>Decanate,</hi> or ten degrees of <hi>Capricorn,</hi> it im<g ref="char:EOLhyphen"/>ports the unhappy chances attending Great men, and strange casualties unto such; the transmigration, or oft shifting of places of some King, Prince, or Person of eminent Rank and quality, and it implies the Revolt or Rebellion of Nobles, and others of meaner quality, <hi>viz.</hi> of the common people; it im<g ref="char:EOLhyphen"/>ports a covetous Prince or Magistrate, by reason of his oppres<g ref="char:EOLhyphen"/>sion, shall cause insurrections.</p>
+               <p>In the second <hi>Decanate,</hi> it stirrs up the fury or spirits of sworn Souldiers against their Commanders in Chief, or against their Emperour, King or Prince, it renders all their indeavours
+<pb n="22" facs="tcp:154045:14"/> fruitlesse, and the events thereof unprosperous; it is the fore<g ref="char:EOLhyphen"/>runner of scarcity of Corn, and that many will dy for want thereof.</p>
+               <p>In the third <hi>Decanate,</hi> it implies the tumultuary motion of a King, and induces famine, and shews great poverty unto the Husbandman, bad crops, little hay or grasse.</p>
+               <p>
+                  <label>♒.</label> In the first <hi>Decanate</hi> of <hi>Aquarius,</hi> it affords matter of publike sorrow and mourning unto Gentlemen, but comfort to the Country-man.</p>
+               <p>In the second <hi>Decanate,</hi> Thefts publikely countenanced, Robberies, Rapines, Earthquakes, Famine, Monopolies, pilling and poling the people.</p>
+               <p>In the third <hi>Decanate,</hi> it tells of the death of field Cattell, and such like creatures, it shews great inundations to succeed the Eclips.</p>
+               <p>
+                  <label>♓.</label> In the first <hi>Decanate</hi> of <hi>Pisces,</hi> it drains the Rivers of their waters, infortunates the Sea coasts, and drives fishes far from shore.</p>
+               <p>In the second <hi>Decanate,</hi> it designes the death of a famous and excellent man, destruction and waste of fish neer the Sea Towns, it imports an Earthquake, some great Church-man questioned, and he called to account for his Knavery.</p>
+               <p>In the third <hi>Decanate,</hi> it presages sedition, cruelty, bitter<g ref="char:EOLhyphen"/>nesse of spirits, and the inhumanity of souldiers, as also much Controversie amongst Divines, and Lawyers.</p>
+            </div>
+            <div type="part">
+               <head>The effects of Lunar Eclipses when they happen in the severall Decanates of every Sign.</head>
+               <p>
+                  <label>♈.</label> IF an Eclips of the Moon be in the first ten degrees of <hi>Aries,</hi> she portends that Feavers shall bee frequent, many houses fired, woods destroyed or cut down and burned, as also a ge<g ref="char:EOLhyphen"/>nerall
+<pb n="23" facs="tcp:154045:14"/> driness of the ayr, many Cater-pillers and destructive vermine appear.</p>
+               <p>In the second <hi>Decanate,</hi> a Pestilence, and fatality in most diseases, few falling sick that escape.</p>
+               <p>In the third <hi>Decanate,</hi> it imports many abortive births, ma<g ref="char:EOLhyphen"/>ny discommodities and dangers unto that Sex, <hi>viz.</hi> of women; as also the death of many great Ladyes according to the Cli<g ref="char:EOLhyphen"/>mate wherein the Eclips falls.</p>
+               <p>
+                  <label>♉.</label> In the first <hi>Decanate</hi> of <hi>Taurus,</hi> house-hold Cattell are tormented with severall unusuall diseases <hi>i. e.</hi> the oxen and horses of the Plowman fall sick and dye, and a generall disease raigns amongst Cattell.</p>
+               <p>In the second <hi>Decanate,</hi> it points out the death of some Queen, as also a dearth of such seeds as are usually sown, it signifies a barrennesse of the earth to continue during the time the effects of the Eclipses influence.</p>
+               <p>In the third <hi>Decanate,</hi> it implies a plague amongst creep<g ref="char:EOLhyphen"/>ing noxious Creatures; as also amongst Rats and Mice, and such vermine as doe most devour the Country-mans grain or Corn.</p>
+               <p>
+                  <label>♊.</label> In the first ten degrees of <hi>Gemini,</hi> it threatens Incursions and Rapines of Enemies: fraudulent Negotiations, many Treatyes, violent Petitions, many Missives, and much employ<g ref="char:EOLhyphen"/>ment for Scribes and Secretaries.</p>
+               <p>In the second <hi>Decanate,</hi> the sudden motion of Armies, and declares mens solicitations and cares, both of private and pub<g ref="char:EOLhyphen"/>like affairs; and that Judges will be carefull of executing Justice.</p>
+               <p>In the third <hi>Decanate,</hi> it foretells the death of some fa<g ref="char:EOLhyphen"/>mous man, for the most part this person happens to be a Scholar, <hi>viz.</hi> either a Lawyer or Divine.</p>
+               <pb n="24" facs="tcp:154045:15"/>
+               <p>
+                  <label>♋.</label> In the first <hi>Decanate of Cancer, </hi> it wholly excites mens minds unto War, treachery and Apostasie.</p>
+               <p>In the second <hi>Decanate,</hi> most bitter and sharp exactions, intollerable assessements, and such like Burthens oppress the Commonalty; vulgar tumults, much harm at Sea.</p>
+               <p>In the third <hi>Decanate,</hi> it foretells diseases to the female sex, and also sudden, miserable and unexpected deaths unto many; and they of <hi>ignoble</hi> births, or of the meaner sort of people.</p>
+               <p>
+                  <label>♌.</label> In the first <hi>Decanate</hi> of <hi>Leo,</hi> it denotes a present &amp; unlooked-for infirmity to befall unto some great Prince, or the Death of some very much noted Person usually of the blood of Princes.</p>
+               <p>In the second <hi>Decanate,</hi> some journey to be undertaken by a King, with a strange mutation and Catastrophe in mun<g ref="char:EOLhyphen"/>dane affairs.</p>
+               <p>In the third <hi>Decanate,</hi> it swells and animates the dispositions both of the people and souldiery, so that they run after No<g ref="char:EOLhyphen"/>velties, desiring new Lawes, and new Governours.</p>
+               <p>
+                  <label>♍.</label> In the first <hi>Decanate</hi> of <hi>Virgo,</hi> it declares sicknesses unto Kings, manifold discords and dissentions universally raging amongst men.</p>
+               <p>In the second <hi>Decanate,</hi> it prepares destruction and Cala<g ref="char:EOLhyphen"/>mities, informes matter against Counsellours, Lawyers, Secre<g ref="char:EOLhyphen"/>taries, and such like men, for their oppression, bribery, and in<g ref="char:EOLhyphen"/>direct dealings.</p>
+               <p>In the third <hi>Decanate,</hi> it afflicts man-kind with many di<g ref="char:EOLhyphen"/>seases, and intimates scarcity of bread, and all sorts of grain.</p>
+               <p>
+                  <label>♎.</label> In the first <hi>Decanate</hi> of <hi>Libra,</hi> hail, storms, ill weather, turbulent winds, violent tempests, very harmfull.</p>
+               <p>In the second <hi>Decanate,</hi> a rott amongst Pettyfoggers, In<g ref="char:EOLhyphen"/>formers, and such like Cattle, they whipt and stript to purpose.</p>
+               <pb n="25" facs="tcp:154045:15"/>
+               <p>In the third <hi>Decanate,</hi> some eminent and noted person dyes; the Religious swell in every Country, and raise seditions in the Courts of Princes.</p>
+               <p>
+                  <label>♏.</label> In the first <hi>Decanate</hi> of <hi>Scorpio,</hi> terrible Thunders, fear<g ref="char:EOLhyphen"/>full Lightnings, many times Earthquakes, aboundance of destructive creatures in the waters.</p>
+               <p>In the second <hi>Decanate,</hi> hot and sharp Feavers afflict men, siccity destroyes the Olives, and infects the ayr.</p>
+               <p>In the third <hi>Decanate,</hi> many seditions, murthers, and all manner of wretchednesse succeeds, mankind oppressed with abundance of obnoxious diseases, and these generall.</p>
+               <p>
+                  <label>♐.</label> In the first <hi>Decanate</hi> of <hi>Sagittarius,</hi> many Thefts and Rapines.</p>
+               <p>In the second <hi>Decanate,</hi> Diseases rage against, and a<g ref="char:EOLhyphen"/>mongst Horses, Mules, <hi>&amp;c.</hi> the Seas troubled with Pyrats.</p>
+               <p>In the third <hi>Decanate,</hi> a Plague followes, and great evils afflict all mankind, Consumptions more than ordi<g ref="char:EOLhyphen"/>narie,</p>
+               <p>
+                  <label>♑.</label> In the first <hi>Decanate</hi> of <hi>Capricorn,</hi> it moves many slan<g ref="char:EOLhyphen"/>ders and false aspersions against very many men, and declares an untimely death unto some Person of worth.</p>
+               <p>In the second <hi>Decanate,</hi> uprores very frequent in the Soul<g ref="char:EOLhyphen"/>diery, oft incursions into neighbour-Countries, Captivities, Plunderings.</p>
+               <p>In the third <hi>Decanate,</hi> the Death of a King, Conspiracies in the People, or Mutinies.</p>
+               <p>
+                  <label>♒.</label> In the first <hi>Decanate</hi> of <hi>Aquarius,</hi>it shewes averse health to a certain King.</p>
+               <p>In the second <hi>Decanate,</hi> it hinders the seed-time.</p>
+               <p>In the third <hi>Decanate,</hi> a wonderfull change in all affairs,
+<pb n="26" facs="tcp:154045:16"/> yet notwithstanding, it imports the change better than to continue as formerly, and argues a relaxation from former oppressions.</p>
+               <p>
+                  <label>♓.</label> In the first <hi>Decanate</hi> of <hi>Pisces,</hi> it imports sorrow to Priests, Church-officers, and Bishops.</p>
+               <p>In the second <hi>Decanate,</hi> Death to some Prime man of Princely discent.</p>
+               <p>In the third <hi>Decanate,</hi> robberies equally committed both at Sea, and on the dry Land.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="27" facs="tcp:154045:16"/>
+            <head>The Images or Asterismes of the Signs as they now are this present year, 1652.</head>
+            <p>THE <hi>Asterisme</hi> of <hi>Aries</hi>
+               <note place="margin">Asterism of <hi>Aries.</hi>
+               </note> begins about the twenty eighth degree of <hi>Aries,</hi> and extends unto the seven<g ref="char:EOLhyphen"/>teenth of <hi>Taurus.</hi>
+            </p>
+            <p>The first part<note place="margin">First Part.</note> of the Asterism of <hi>Aries</hi> begins in the <hi>28.</hi> of <hi>Aries,</hi> and ends in the <hi>4.</hi> of <hi>Taurus,</hi> the fixed Stars herein being of the nature of <hi>Mars</hi> and <hi>Saturn,</hi> and also some of the nature of <hi>Mercury</hi> being there, doe stir up winds and showers; but now a dayes not so plentifully as in <hi>Ptolomies</hi> time: for the Sun passing the Horns and shoulder of the <hi>Ram</hi> doth now more heat, and thereby purifie the ayr, those Stars in <hi>Aries</hi> being now proceded further Northward, whereby more gentle winds doe blow.</p>
+            <p>The middle parts of this Asterisme are contained from the <hi>4.</hi> degree of <hi>Taurus,</hi> unto the tenth degree of <hi>Taurus;</hi>
+               <note place="margin">Second Part.</note> these de<g ref="char:EOLhyphen"/>grees are temperate, in some measure inclining to drought and heat, by reason of some stars in the hinder foot, loyns, and hams of the <hi>Ram</hi> which are <hi>Martiall:</hi> with which certain <hi>Satur<g ref="char:EOLhyphen"/>nine</hi> Stars towards the South in the <hi>Whale,</hi> and <hi>Saturnine</hi> and <hi>Venerian</hi> in <hi>Cassiopea</hi> towards the North doe come near.</p>
+            <p>The extreme or last parts<note place="margin">Last Part.</note> of this Asterism are from the <hi>10.</hi> of <hi>Taurus</hi> unto the <hi>17.</hi> of <hi>Taurus;</hi> these are now more scorching hot than in <hi>Ptolomey</hi> his dayes, but not very pesti<g ref="char:EOLhyphen"/>lent:
+<pb n="28" facs="tcp:154045:17"/> There are also Northern stars in <hi>Aries</hi> as the Horns, and hinder part of the Neck of the nature of <hi>Saturn, Mars</hi> and <hi>Mercury,</hi> also <hi>Mercurian</hi> Triangles hot and hurtfull, The Sou<g ref="char:EOLhyphen"/>thern Stars by reason of <hi>Saturnine</hi> Stars in the <hi>Whale,</hi> are Icey and very cold.</p>
+            <p>
+               <label>♉.</label> The first part of the <hi>Asterisme</hi> of <hi>Taurus</hi> begins in the seven<g ref="char:EOLhyphen"/>teenth of <hi>Taurus,</hi> and ends in the twenty seventh of <hi>Taurus,</hi> in which space of Heaven the <hi>Pleiades</hi> are seen of the nature of <hi>Mars</hi> and <hi>Luna,</hi> they are turbulent, windy and cloudy, but now less than formerly.</p>
+            <p>The middle parts of this <hi>Asterism</hi> is from the twenty seaventh of <hi>Taurus</hi> to the beginning of <hi>Gemini,</hi> these are somewhat moyst, and temperate in heat, by reason of some <hi>Saturnine</hi> and <hi>Joviall</hi> Stars of <hi>Perseus.</hi>
+            </p>
+            <p>The last parts are from the beginning of <hi>Gemini</hi> unto the twenty fifth of <hi>Gemini,</hi> in which space the <hi>Hyades</hi> are, and Horns of the <hi>Bull,</hi> of the nature of <hi>Mars,</hi> also the Buckler, foot, and left shoulder of <hi>Orion,</hi> of the nature of <hi>Saturn, Jupiter, Mars, Mercury;</hi> these shew thunder, lightning, fire. The North space is temperate, Stars of <hi>Jupiter</hi> and <hi>Saturn</hi> making most part of the Constellation of <hi>Perseus;</hi> the South part is variable, because of the <hi>Martiall</hi> Stars of <hi>Taurus,</hi> with whom are some <hi>Mercurian</hi> and <hi>Saturnine,</hi> yea of <hi>Mars</hi> and <hi>Luna.</hi>
+            </p>
+            <p>
+               <label>♊.</label> The first part of the <hi>Asterism</hi> of <hi>Gemini</hi> is from the twenty sixt of <hi>Gemini,</hi> to the sixt of <hi>Cancer,</hi> the Stars herein are moist and harmfull, yea even in our dayes.</p>
+            <p>The middle part is from the sixt of <hi>Cancer</hi> to the fourteenth of <hi>Cancer,</hi> conteining <hi>Saturnine</hi> Stars in the Arms and Knees of the <hi>Twins,</hi> these are temperate, yet somewhat incli<g ref="char:EOLhyphen"/>ning to driness.</p>
+            <p>The latter are from the fourteenth to the twenty fourth of <hi>Can<g ref="char:EOLhyphen"/>cer,</hi> these are mixt and uncertain Stars, declining to driness, by reason of some <hi>Saturnine,</hi> some <hi>Martiall</hi> and <hi>Mercurian</hi> Stars,
+<pb n="29" facs="tcp:154045:17"/> as the forepart of the head of the <hi>Twinns,</hi> some <hi>Martiall</hi> Starres, there are onely in the back part of the head of the <hi>Twinns:</hi> The North part moves winds, which even shake the Earth. The South part occasions drouth and heat.</p>
+            <p>
+               <label>♋.</label> The first part of the <hi>Asterism</hi> of <hi>Cancer</hi> is from the twenty fourth of <hi>Cancer,</hi> to the first of <hi>Leo,</hi> neer the feet of the <hi>Crab,</hi> and to the <hi>Cratch,</hi> wherein there are some <hi>Marti<g ref="char:EOLhyphen"/>all,</hi> some <hi>Mercuriall</hi> Starres, some of <hi>Mars,</hi> and of <hi>Luna,</hi> these shake the Earth, and cause darknesse.</p>
+            <p>The middle part are from the first of <hi>Leo,</hi> to the seventh of <hi>Leo,</hi> in which space are the <hi>Asses</hi> of the nature of <hi>Mars</hi> and <hi>Sol,</hi> formerly they were held temperate, now their nature is more dry and hot.</p>
+            <p>The last part are from the seventh of <hi>Leo,</hi> to the thir<g ref="char:EOLhyphen"/>teenth of <hi>Leo</hi> almost, wherein are contained <hi>Saturnine</hi> and <hi>Martiall</hi> starres, in former ages they were windy, now not so; still they are very dry: but both the Northern and Southern starres are hot and hurtfull.</p>
+            <p>
+               <label>♌</label> The first part of this <hi>Asterism</hi> is from thirteen degrees, to the twenty fourth of <hi>Leo,</hi> in this space are severall starres, part <hi>Saturnine</hi> and <hi>Martiall,</hi> part <hi>Saturnine</hi> and <hi>Venerian,</hi> part <hi>Martiall</hi> and <hi>Joviall,</hi> these are of a suffocating and pesti<g ref="char:EOLhyphen"/>lent nature.</p>
+            <p>The middle part is from the twenty fourth of <hi>Leo,</hi> to the fourth of <hi>Virgo,</hi> this part of heaven is illustrated with <hi>Satur<g ref="char:EOLhyphen"/>nine, Veneriall,</hi> and <hi>Mercurian</hi> starrs, these are temperate, and somewhat incline to moysture.</p>
+            <p>The extreme parts of this <hi>Asterism</hi> are from the fourth of <hi>Virgo,</hi> to the seventeenth of <hi>Virgo,</hi> in which the <hi>Lyons</hi> tayle is, being <hi>Saturnine</hi> and <hi>Venerian;</hi> These are temperate, and mode<g ref="char:EOLhyphen"/>rately hot and humid.</p>
+            <p>The Northern part hereof is of a fiery influx and un<g ref="char:EOLhyphen"/>stable, by reason of some Martiall Starrs neer the great <hi>Bear.</hi>
+            </p>
+            <pb n="30" facs="tcp:154045:18"/>
+            <p>The Southern part is moyst by reason of <hi>Saturnine</hi> and <hi>Ve<g ref="char:EOLhyphen"/>nerian</hi> starrs in the Constellation of <hi>Hydra.</hi>
+            </p>
+            <p>
+               <label>♍.</label> The beginning of the <hi>Virgins Asterism</hi> is from the seven<g ref="char:EOLhyphen"/>teenth of <hi>Virgo,</hi> to the end of the Sign, by reason of some <hi>Martiall</hi> and <hi>Mercurian</hi> starrs, they are somewhat hot and harmfull.</p>
+            <p>The middle is from the beginning of <hi>Libra,</hi> unto the eigh<g ref="char:EOLhyphen"/>teenth of <hi>Libra,</hi> containing <hi>Mercuriall</hi> and <hi>Venerian</hi> starrs in the left wing and shank of the <hi>Virgin,</hi> this part is tem<g ref="char:EOLhyphen"/>perate.</p>
+            <p>The end of this <hi>Asterism</hi> is from the eighteenth of <hi>Libra,</hi> to the eighth of <hi>Scorpio,</hi> in which the <hi>Virgins Spike</hi> is placed a starre of the nature of <hi>Venus</hi> and <hi>Mars;</hi> there are also other <hi>Mercurian</hi> and <hi>Martiall</hi> stars in the train of her gown or gar<g ref="char:EOLhyphen"/>ment, and these are somewhat watry; the North part is windy having therein stars of the nature of <hi>Mercury.</hi>
+            </p>
+            <p>The South part is temperate, having <hi>Joviall</hi> and <hi>Satur<g ref="char:EOLhyphen"/>nine</hi> stars therein.</p>
+            <p>
+               <label>♎.</label> The first part of the <hi>Ballance Asterism</hi> begins in the eighth of <hi>Scorpio,</hi> ending in the fifteenth of <hi>Scorpio,</hi> containing <hi>Satur<g ref="char:EOLhyphen"/>nine</hi> stars participating with some <hi>Martiall</hi> in the Southern scale of the <hi>Ballance,</hi> and in the Serpent of <hi>Ophiuchus,</hi> these starres are temperate, yet at this present more dry then formerly.</p>
+            <p>The second are from the fifteenth of <hi>Scorpio,</hi> to the nineteenth of <hi>Scorpio,</hi> and these are temperate.</p>
+            <p>The last part of this <hi>Asterisme</hi> is from the nineteenth of <hi>Scorpio,</hi> to the twenty sixth of <hi>Scorpio,</hi> these are watery; The Northern part is windy, having starres of <hi>Saturn</hi> and <hi>Mercury</hi> therein; the Southern part is dry and pestilent.</p>
+            <p>
+               <label>♏</label> The <hi>Asterism</hi> of the <hi>Scorpion</hi> begins in twenty six of <hi>Scorpio,</hi> and continues to the sixth of <hi>Sagittarius,</hi> being furnished with
+<pb n="31" facs="tcp:154045:18"/>
+               <hi>Martiall</hi> starres, and some others of <hi>Saturn</hi> and <hi>Jupiter</hi> their influence as <hi>Antares</hi> in the fourth of <hi>Sagitarius,</hi> these produce Snows more plentifully now than formerly.</p>
+            <p>The middle are from the sixth of <hi>Sagitarius</hi> to the sixteenth of <hi>Sagitarius,</hi> wherein the starrs of <hi>Ophiuchus</hi> are <hi>Saturnine</hi> and <hi>Veneriall,</hi> and they temperate, but inclining unto moysture.</p>
+            <p>The later parts are from the sixteenth of <hi>Sagitarius,</hi> to almost the twenty sixth of <hi>Sagitarius,</hi> these stars are turbulent, and of the nature of <hi>Mars</hi> and <hi>Mercurie.</hi>
+            </p>
+            <p>The North part doe occasion Heats, the South are moist and inconstant.</p>
+            <p>
+               <label>♐.</label> The first part of the <hi>Asterism</hi> of <hi>Sagitarius,</hi> it from the twenty sixth of <hi>Sagitarius,</hi> to the sixth of <hi>Capricorn,</hi> its cold and moyst in our dayes more than antiently.</p>
+            <p>The middle is from the sixth of <hi>Capricorn</hi> to the six<g ref="char:EOLhyphen"/>teenth of <hi>Capricorn,</hi> temperate; and declining to cold, the starrs of the <hi>Sagitary</hi> being of <hi>Jupiter</hi> and <hi>Mars.</hi>
+            </p>
+            <p>The later part from the sixteenth of <hi>Cpricorn,</hi> to the twenty eight of <hi>Capricorn,</hi> are hot or fiery. The North part of the Constellation is windy; the South moyst and in<g ref="char:EOLhyphen"/>constant.</p>
+            <p>
+               <label>♑.</label> The first part of the <hi>Asterism</hi> of <hi>Capricorn</hi> begins in the twenty eighth of <hi>Capricorn,</hi> and continues to the seventh of <hi>Aquarius,</hi> the starrs in this place are part <hi>Veneriall</hi> part <hi>Martiall,</hi> they produce heat, and do mischief.</p>
+            <p>The middle part are from the seventh of <hi>Aquarius,</hi> to the fifteenth of <hi>Aquarius,</hi> and the stars herein are temperate.</p>
+            <p>The last part is from the first of <hi>Aquarius,</hi> unto the twen<g ref="char:EOLhyphen"/>ty one of <hi>Aquarius,</hi> these produce rain; Both North and South Constellation is moist and harmfull.</p>
+            <pb n="32" facs="tcp:154045:19"/>
+            <p>
+               <label>♒</label> The first part begins in the twenty one of <hi>Aquarius,</hi> to the end of the Signe, and it is moist.</p>
+            <p>The second part is from the first of <hi>Pisces</hi> to the eighth, temperate it is, by reason of <hi>Saturnine</hi> and <hi>Joviall</hi> stars.</p>
+            <p>The last part of the <hi>Asterism</hi> is from the eighth to the fif<g ref="char:EOLhyphen"/>teenth of <hi>Pisces,</hi> it is windy. The North stars do heat, the Sou<g ref="char:EOLhyphen"/>thern produce Snow.</p>
+            <p>
+               <label>♓</label> The first part of this <hi>Asterism</hi> begins in the fifteenth of <hi>Pisces,</hi> and ends in the last degree of <hi>Pisces;</hi> these stars are now more cold, they were temperate.</p>
+            <p>The middle part is from the first of <hi>Aries,</hi> to the fifteenth of <hi>Aries,</hi> these are moyst.</p>
+            <p>The last part of this <hi>Asterism</hi> from the fifteenth of <hi>Aries,</hi> to the twenty eighth of <hi>Aries,</hi> formerly did cause heat, thicken and dark the ayr; The Northern part is windy, the Southern is watery.</p>
+         </div>
+         <div n="2" type="book_excerpt">
+            <pb n="33" facs="tcp:154045:19"/>
+            <head>Part of the second Book of <hi>PTOLOMEY,</hi> concerning the judging of <hi>Eclipses.</hi>
+            </head>
+            <p>HAving already in a fit <hi>Method</hi> declared, what is the familiarity of the <hi>Planets</hi> and Signs of the <hi>Zodiack</hi> with the <hi>Constitutions</hi> and conditions of severall <hi>Nations</hi> and people and from whence they arise; we now intend to deliver a more facill and easy way, how to apply certain Nations unto severall of the <hi>Signs</hi> of <hi>Heaven:</hi> whereby <hi>Predictions</hi> may be framed concerning the most eminent and materiall <hi>Accidents</hi> of severall <hi>Kingdoms, Regions, Cities</hi> and <hi>Countries.</hi>
+            </p>
+            <p>The first and most principall or most effectuall cause of <milestone type="tcpmilestone" unit="unspecified" n="1"/> such <hi>Events,</hi> is the <hi>Eclipses</hi> of the <hi>Sun</hi> and <hi>Moon,</hi> and the <hi>Transits</hi> of the <hi>Stars</hi> or Planets at that time of the defect.</p>
+            <p>First of all therefore, The <hi>Place</hi> is to be found out or de<g ref="char:EOLhyphen"/>clared, <milestone type="tcpmilestone" unit="unspecified" n="2,"/>
+               <hi>viz.</hi> What <hi>Region, Country,</hi> or <hi>City,</hi> the <hi>Eclips</hi> of the <hi>Sun</hi> and <hi>Moons</hi> doth point out, or the <hi>Stations</hi> of <hi>Saturn, Jupiter</hi> and <hi>Mars.</hi>
+            </p>
+            <p>Secondly, The time is to be observed and adjudged when, or how long the <hi>Events</hi> shall continue or indure.</p>
+            <p>Thirdly▪ The kinds of the <hi>Events;</hi> viz, Whether <hi>War</hi> or <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>Famine</hi> is implyed.</p>
+            <pb n="34" facs="tcp:154045:20"/>
+            <p>Fourthly, The Species, kinds or nature of those events, or the manner of them; or who shall doe best and be <hi>Victors.</hi>
+            </p>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of the consideration of those Regions, unto which the effects shall belong or appertain.</head>
+               <p>FIrst we make our Conjecture of the <hi>Region</hi> or <hi>Place</hi> in this manner.</p>
+               <p>In those Eclipses of the Sun and Moon which are great and famous, we consider the place of the Zo<g ref="char:EOLhyphen"/>diack in which the Eclips is, and the <hi>Regions</hi> familiar or assigned unto that place according to the distribution of the <hi>Trigons</hi> or <hi>Triplicitys.</hi>
+               </p>
+               <p>And what Cities by reason of their Horoscope <hi>Ascendant</hi> or sign ascending in the Cities first <hi>structure</hi> or for that place or Sign which either or both the <hi>Sun</hi> and <hi>Moon</hi> possessed at that time, or for the <hi>Medium Coeli</hi> or Sign <hi>Culminating</hi> in the <hi>Nativities</hi> of the <hi>Princes</hi> of those <hi>Regions,</hi> which had familiarity with the present place <hi>Eclipsed.</hi>
+               </p>
+               <p>What <hi>Regions</hi> or <hi>Cities</hi> we shall behold, that shall thus concur and agree with the place <hi>Eclipsed,</hi> we shall judge the <hi>Events</hi> in a great measure shall happen there; especially if those places were in Conjunction in that Sign in which the <hi>Eclips</hi> appears, and if the <hi>Defects</hi> or <hi>Eclips</hi> are above the <hi>Earth</hi> or visible in those <hi>Regions.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of the time of the Events.</head>
+               <p>THe second doctrine of the time of the significations of the <hi>Events,</hi> and their <hi>Duration,</hi> is in this man<g ref="char:EOLhyphen"/>ner.</p>
+               <p>For as much as the Eclips of the Sun and Moon
+<pb n="35" facs="tcp:154045:20"/> doth not appear in the same unequall hours in all <hi>Regions,</hi> or is the <hi>Obscuration</hi> of their bodies, or continuance of duration all alike.</p>
+               <p>First therefore in every <hi>Region</hi> according unto <hi>Proportion,</hi> let there be taken, the <hi>Eclipticall Hour,</hi> the <hi>Elevation</hi> of the <hi>Pole,</hi> the <hi>Angles</hi> of the figure, as you doe in a Nativitie.</p>
+               <p>Then it is to be considered, how many <hi>Equinoctiall</hi> Hours according to proportion the obscuration continues in every Region.</p>
+               <p>These things considered, we shall find, that so many <hi>Equi<g ref="char:EOLhyphen"/>noctiall</hi> hours as the Sun is Eclipsed, so many years the <hi>Events</hi> thereby signified shall continue, but in a Lunar Eclips so many months.</p>
+               <p>The beginnings and the Increasings of those effects, wee shall discover from the place where the <hi>Eclips</hi> fals, with re<g ref="char:EOLhyphen"/>lation to the <hi>Angles.</hi>
+               </p>
+               <p>For when the place Eclipsed shall fall out to be in the <hi>Ascendant,</hi> or <hi>East</hi> Horizon, the beginning of <hi>Events</hi> shall be from the fourth month next after the <hi>Eclips,</hi> but the pro<g ref="char:EOLhyphen"/>gressions of those <hi>Events</hi> will be more vehement in the first <hi>Trient</hi> of the whole duration.</p>
+               <p>But if the <hi>Defect</hi> be in the <hi>Mid-Heaven,</hi> the beginning of the <hi>Events</hi> shall be in the second four months, and the pro<g ref="char:EOLhyphen"/>gressions more hot and fierce in the second <hi>Trient;</hi> But if the place defective be in the <hi>West</hi> Angle, the beginnings shall ap<g ref="char:EOLhyphen"/>pear in the third, fourth month, and the effects most violent in the third <hi>Trient.</hi>
+               </p>
+               <p>But the particular Remissions and intentions shall be ad<g ref="char:EOLhyphen"/>judged from the Conjunctions which in the mean time shall be made in that place where the Eclips was: or in those pla<g ref="char:EOLhyphen"/>ces, which doe behold that place, and from other Planets a<g ref="char:EOLhyphen"/>rising, together which signifie the <hi>Events,</hi> when as they are either in the morning rising, or in the East, or in the West, or in their Station or vespertine <hi>Rising</hi> and doe behold the Signs wherein the <hi>Eclips</hi> was.</p>
+               <pb n="36" facs="tcp:154045:21"/>
+               <p>For their <hi>Risings</hi> and <hi>Stations</hi> doe increase the <hi>Events;</hi> but if they be in the West or in occulation of the Sun-beams, or in their vespertine Rising, the <hi>Events</hi> are more remiss.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Of the Kind, or quality of Events.</head>
+               <p>THis third Chapter contains, how the quality of the <hi>Events</hi> may be known.</p>
+               <p>The knowledge whereof is taken or derived from the <hi>Qualities</hi> and <hi>figures</hi> of those Signs, wherein the <hi>Eclipses</hi> of the <hi>Luminaries</hi> were, and from the places of the predominant <hi>Stars</hi> both fixed and <hi>erraticall,</hi> and from that Sign in which the <hi>Eclips</hi> was, and the Sign which is in the Angle, The fortitude or Domination of the wandring Planets is thus taken.</p>
+               <p>For what Planet doth concur or agree in most wayes to the place Eclipsed, and to the Angle which follows the E<g ref="char:EOLhyphen"/>clips, he shall onely bear rule, he we mean who is nearest the place either by his apparent <hi>Access</hi> or <hi>Recession,</hi> or who by any aspect is in configuration with the place, or is most strong by reason of <hi>House, Exaltation, Triplicity, Term,</hi> or <hi>Face.</hi>
+               </p>
+               <p>But if it so fall out that the same Planet is not Lord of the Eclips, and of the <hi>Angle</hi> succeeding, but two Planets must be Lords, then is that Planet prefer'd or made choice of, who is <hi>Lord</hi> of the place <hi>Eclipsed,</hi> but the other shall be associated with him, who hath dignities in both places.</p>
+               <p>And if many Planets have equall fortitude and authoritie in both places, and do also aspect the place, that Planet shall be admitted who is neerest unto an Angle, or is more powre<g ref="char:EOLhyphen"/>full in signification, or more familiar in quality.</p>
+               <p>
+                  <label>Fixed Signes considerable.</label>
+                  <pb n="37" facs="tcp:154045:21"/>Of the fixed Stars, that onely is to be assumed, which hath as it were <hi>Dominion</hi> in the <hi>Angle Preceding</hi> the Eclips, and is of the greater Magnitude, or which ariseth in the <hi>East,</hi> in the very hour of the <hi>Eclips,</hi> or possesseth the <hi>Medium Coeli,</hi> accor<g ref="char:EOLhyphen"/>ding to the <hi>Angles</hi> succeeding the place of the <hi>Eclips.</hi>
+               </p>
+               <p>
+                  <label>Formes of the Signes.</label> These things being taken into consideration, and the fixed Starrs, and other Planets in judgement of the causes, the fi<g ref="char:EOLhyphen"/>gures of the Signes are to be considered, in which the Eclips is, and in which the Planets having most <hi>Dominion</hi> are in, from whence the Quality of Events may be discerned.</p>
+               <p>Those Signes in the Zodiack which have humane shape, have signification unto men and mankind.</p>
+               <p>Terrestriall shapes have signification on those whose forms and figures are alike: Serpents or creeping signes, signifie evills from Snakes Wild signes, or ferall, harm from wild beasts.</p>
+               <p>Tame Creatures or beasts, signifie harms and losses from and in domesticall and tame Cattell, and such as have relati<g ref="char:EOLhyphen"/>on to the profit of mans life, as the reason of severall shapes or figures falls out, <hi>viz.</hi> either of horses, oxen or other beasts.</p>
+               <p>The <hi>Northern</hi> earthly Asterisms shew sudden Earth<g ref="char:EOLhyphen"/>quakes, the <hi>Meridionall,</hi> great and unexpected showres. When the place Eclipsed is in an <hi>Asterism</hi> or signe having wings, as <hi>Virgo, Sagitarius,</hi> damage and detriment will be<g ref="char:EOLhyphen"/>fall to birds or fowle, especially to those on whom mankind feedeth; If the place Eclipsed be in Signes, or Constellations pictured swimming the effects do fall in the water, and on fish; but if the Sign be <hi>Marine,</hi> then on ships and Navigation, these Signes or Images are the <hi>Crab, Dolphin,</hi> and the <hi>Goat;</hi> If it be in the form of Rivers as in <hi>Aquarius</hi> or <hi>Pisces,</hi> it hath signification on what lives in Rivers, and on Fountains.</p>
+               <p>The Constellation of <hi>Argos</hi> signifieth both, <hi>viz.</hi> both Sea and Rivers. If the Eclipses be in <hi>Tropicall</hi> or <hi>Equino<g ref="char:EOLhyphen"/>ctiall</hi> Signes, they commonly signifie Change of the ayr; if they be in the Spring, or <hi>Vernall Aequinox,</hi> the budding or sprou<g ref="char:EOLhyphen"/>ting of the Trees is to suffer, as the Vine Fig-tree, and others then appearing to bud or break forth. If they happen in the Summer Solstice, the effects will appear about the gathering
+<pb n="38" facs="tcp:154045:22"/> Fruits, but in <hi>Egypt;</hi> it properly denotes the overflowing of the Nile; If in the <hi>Autumnall Equinox,</hi> the effects concern the <hi>Harvest;</hi> if in the Winter, <hi>Pot-herbs, Birds</hi> of that <hi>Season,</hi> and Fish will undergo the effects; The <hi>Equinoctiall</hi> signes doe also shew what may happen in matter of Religion. The Tro<g ref="char:EOLhyphen"/>picks denote change of Ayr, and <hi>State-affairs: Fixed</hi> signes denotes <hi>Foundations</hi> and <hi>Buldings.</hi>
+               </p>
+               <p>
+                  <hi>By corporeall</hi> or <hi>Common signes</hi> portend to men and <hi>Kings.</hi>
+               </p>
+               <p>Those Eclipses who are neer, or in the East, do signifie the effects will concern Fruits, Youth, and their foundations.</p>
+               <p>Those in the Mid-heaven, Regions, Kings, and people of middle age.</p>
+               <p>Those in the West, Changes of Lawes, old age, murthers.</p>
+               <p>How largely the Events may extend themselves is best known by the greatnesse of the Defects, and from those Stars or Planets which in the place defective are causes of the E<g ref="char:EOLhyphen"/>vents.</p>
+               <p>When the Eclips of the <hi>Sun</hi> is <hi>Vespertine,</hi> all Events are then lesse, and in an Eclips of the Moon when the <hi>Defect</hi> is <hi>Matutine;</hi> in an opposition half the effects are taken off.</p>
+               <p>Eclipses of the Sun being <hi>Matutine;</hi> and <hi>Vespertine</hi> of the Moon, do increase the Evils.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> What manner of Events are like to happen, and whether good or ill.</head>
+               <p>IN our fourth Chapter we propound, what manner of Events shall happen, and those whether good or evill, and of what nature in every kind. This judgement is derived from the nature of the Planets who have most fortitudes, who are posited in the chiefest places of heaven, and from their Commixtion amongst themselves, and in those pla<g ref="char:EOLhyphen"/>ces of the heaven in which they are beheld to be.</p>
+               <p>For the Sun and Moon are the Governours of other Pla<g ref="char:EOLhyphen"/>nets, and the chiefest causes of the Events, and do order the
+<pb n="39" facs="tcp:154045:22"/> Dominion of the Stars; either confirming or lessening the for<g ref="char:EOLhyphen"/>ces or influences of those who are most strong.</p>
+               <p>But the consideration of those Stars, who have the greatest priviledge or right in Commixtion, do shew the quality of Events.</p>
+               <p>Let us begin and relate the qualities of every of the Pla<g ref="char:EOLhyphen"/>nets, and tell of their natures, <hi>&amp;c.</hi>
+               </p>
+               <p>But this short admonition must be taken notice of, <hi>viz.</hi> that when generally I nominate any one, or some of the five Planets, I understand their temper, and consequently their force, whether that very starre doth predominate or any other fixed starre, or other place of the Zodiack, having alike nature and influence, as if we discoursed of their Influxive quality and nature in generall, and not of the starres; Nor in the commixtions onely of the Planets, do I understand their Con<g ref="char:EOLhyphen"/>gresses, but the like natures also of others, whether fixed stars, or places of the Zodiack, according to the before mentioned familiarities with the Planets.</p>
+               <p>If <hi>Saturn</hi> be the only Lord, he induceth corruptions caused by cold, but if the mischief be only dispersed among men; it causeth long diseases, as Pinings, Consumptions, Fluxes, the perturbations of humid diseases, the catching of quartane Agues; as also banishment, want, distresses through the means of evill men, griefs, terrours, deaths; and all these espe<g ref="char:EOLhyphen"/>cially to those who are stricken in years. The Beasts also, which are most usefull to man, shall be destroyd by it; and men by using them, when they are corrupt, will dy. Moreover, the ayr shall for the most part stir up frosts, and cloudy, bleak and pestilent blasts, being extreamly cold, therefore it self is also troubled, ore-spread with clouds, and dark; Whence will en<g ref="char:EOLhyphen"/>sue noysome and hurtfull showres, such as shall produce living creatures hurtfull to mankind. In Rivers, and especially in the Sea will arise tempests that shall cause the wracks of Na<g ref="char:EOLhyphen"/>vies, their voyages being unfortunate, Fish will die, especially in the Sea, the waters shall be backward and forward, over<g ref="char:EOLhyphen"/>whelming all, Rivers shall be overflown, and the chiefest and most necessary fruits of the Earth shall be consumed, princi<g ref="char:EOLhyphen"/>pally
+<pb n="40" facs="tcp:154045:23"/> by Caterpillers or Locusts; Inundations or rains, or hail, and the like: And the mischief will go so far, as that men shall dy for hunger.</p>
+               <p>If <hi>Jupiter</hi> be Lord alone, he advances all things by a copi<g ref="char:EOLhyphen"/>ous increase; but as to men, he causeth honours, tranquility, plenty, peace, and he advantages all things that relate to life. And in summe, he is the author of all good, both as to the body and mind. He doth moreover conciliate the benefits and rewards expected from Princes, and makes those Kings and Princes more illustrious, dilating their Territories, and encrea<g ref="char:EOLhyphen"/>sing their Magnanimity and indeed generally he denotes all things happy and fortunate. If the effects relate to Beasts and bruits; those which are domestick, and for the use of man he will multiply, the unprofitable and contrary he will destroy. The constitution of the Air is wholsome and temperate, yet windy and moyst, and a cherisher of fruits; Navigation also is prosperous, the Rivers have moderate floods; there is abun<g ref="char:EOLhyphen"/>dance of fruit and plenty of all those things which are requi<g ref="char:EOLhyphen"/>site to men to live well.</p>
+               <p>If <hi>Mars</hi> be the onely Lord he causes generally destruction by reason of his drought. But properly among men he raises Wars, inward seditions, the taking of Cities, destruction, tu<g ref="char:EOLhyphen"/>mults, rebellions, the indignation of Princes towards their sub<g ref="char:EOLhyphen"/>jects, and for that reason unexpected slaughters.</p>
+               <p>Moreover, he induceth burning diseases, tertian Agues, eruptions of the blood acute diseases, violent deaths, and that especially of young men. As also combustions mur<g ref="char:EOLhyphen"/>thers, impieties, injuries violence, rapine, robbery. The con<g ref="char:EOLhyphen"/>stitution of the ayr will be extream hot, causing hot, pestilen<g ref="char:EOLhyphen"/>tiall and corruptive blasts; There will be also great droughts, thunder, and flames of fire fall from heaven: At Sea unexpe<g ref="char:EOLhyphen"/>cted wracks by reason of tempests and thunder-bolts; Rivers and Springs shall be dried up and especially the waters neces<g ref="char:EOLhyphen"/>sary for drink shall fa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l and all other things usefull and neces<g ref="char:EOLhyphen"/>sary to man a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cattell, Plants▪ and Fruits will be corrupted, partly by excessive heat, partly by showres and ill winds. And those that are layd up for to be preserved shall be destroyed by Fire.</p>
+               <pb n="41" facs="tcp:154045:23"/>
+               <p>If <hi>Venus</hi> be the onely Lady, she generally doth the same as <hi>Jupiter,</hi> but with more beauty. But particularly as to men, she causes Fame, Honours, Joy, fortunate Marriage, off-spring, and it goes well in all things, and as is desired; She encreases the substance, and generally she denotes, a chast and pious in<g ref="char:EOLhyphen"/>stitution of humane life, and holy things receive the honour and veneration due to them. Between Princes and their sub<g ref="char:EOLhyphen"/>jects there is an unexpected familiarity. There will be an ex<g ref="char:EOLhyphen"/>cellent temperament of the Ayr, a humid and precious consti<g ref="char:EOLhyphen"/>tution of winds; and generally the Ayr will be excellently temperate, and pure, and there will be many showres, but fruitfull. A prosperous and profitable Navigation▪ Rivers will be risen because of the plenty of showres; and there will be plenty of all the creatures, and fruits which are usefull to man.</p>
+               <p>If <hi>Mercury</hi> be Lord alone generally as he is in Conjun<g ref="char:EOLhyphen"/>ction with the other Planets, so is he conformed to their na<g ref="char:EOLhyphen"/>tures; but properly when his own nature contributes any thing he advances the others. When the effect relates to men, it insinuates expedition industry, and craft in humane affairs. He promotes the assaults of theeves, robberies, and treachery. <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rcury being</hi> configurate with the malevolent Planets, cau<g ref="char:EOLhyphen"/>ses very unfortunate Navigation, dry diseases▪ quotidian Fea<g ref="char:EOLhyphen"/>vers and Coughs, eruptions of the blood and Consumptions. As for what concerns Religion and Divine rites, and secrets of State, Customes and Lawes he disposes of all according to the quality of that Planet wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch is in aspect with him. When he is neer the Sun (being dry because of his swift motion) he raises in the Ayr inordinate and impetuous winds, and suddenly changeable, as also thunder and lightning He also causes ga<g ref="char:EOLhyphen"/>pings in the earth, Earthquakes, whereby he brings a Murrain and destruction to those living creatures and plants, which are usefull to man. Moreover when he is Occidentall, he dimi<g ref="char:EOLhyphen"/>nisheth the waters, when Orientall, encreases them. And these are the operations of each Planet according to their in<g ref="char:EOLhyphen"/>nate qualities; But when they are mingled together among themselves according to the variety of the Aspects and Signes, as also in relation of their positure to the Sun, they do conve<g ref="char:EOLhyphen"/>niently
+<pb n="42" facs="tcp:154045:24"/> vary their actions, and from their severall Commix<g ref="char:EOLhyphen"/>tures various qualities doe arise.</p>
+               <p>But sith it is impossible, to expound the quallities of every and of all their mixtures, or to recite all their Configurations, of which there is so great variety, let the consideration hereof be referred to the discretion and prudence of every Astrologer.</p>
+               <p>But let us with diligence observe these times, <hi>viz.</hi> what is the familiarity of those Stars which doe bear rule and sig<g ref="char:EOLhyphen"/>nifie the Events, and their affinity and relation with those Regions and Cities wherein the Events will appear.</p>
+               <p>For beneficiall Stars joyned in any relation to the obnoxi<g ref="char:EOLhyphen"/>ous places where the Events should happen▪ if they I say are not contradicted by other Stars of contrary nature, they doe absolve by the goodness of their nature more effectually what they did promise.</p>
+               <p>If there be no affinity or cognation betwixt them or if they be over powred by Stars who are adverse unto them, they doe the less good.</p>
+               <p>So also obnoxious Stars, when having obtained dominion, shall concur also with the harmfull places unto the E<g ref="char:EOLhyphen"/>vent; If Stars of a contrary nature assist, then the maleficall do lesse offence; but if they themselves do neither govern the Re<g ref="char:EOLhyphen"/>gions, or are hindered from others, who may seem to claim a certain right and dominion on those Regious subject unto the events signified, then they more vehemently inflict a Plague of their own Constitution.</p>
+               <p>But for the most part in universall evils, those men or wo<g ref="char:EOLhyphen"/>men are especially layd hold on in whose Nativities the prin<g ref="char:EOLhyphen"/>cipall places, <hi>viz.</hi> of the two Lights, and the Angles, are the same with those from whom the causes of universall Events are derived; that is, either in the Eclipsed places themselves, or in the opposite places unto them.</p>
+               <p>Above all in the first place it is most periculous and al<g ref="char:EOLhyphen"/>most unavoidable if the very degrees of the Eclipticall places or the opposit, shall fall to be with degrees of either Luminarie, which they possessed at time of the Birth.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="43" facs="tcp:154045:24"/>
+            <head>To the Citizens of <hi>Bristoll</hi> or as ma<g ref="char:EOLhyphen"/>ny of them as had the misfortune to hear <hi>Ralph Farmer</hi> prattle in the Colledge Church 5. <hi>Novem.</hi> 1651.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THer's a Wolf inhabits your City in Sheeps Cloathing: perhaps you know not the man so well as we at <hi>London,</hi> This <hi>Ralph Farmer</hi> was for many years an under Cleark or Hireling in the <hi>Sub-poena</hi> Office in <hi>Chancery</hi> Lane; About 1642. or 1643. when those unnaturall Quarrels a<g ref="char:EOLhyphen"/>mongst our selves grew high, and a Committee for Sequestrations was e<g ref="char:EOLhyphen"/>rected in <hi>London,</hi> this <hi>Farmer</hi> left his scribling, and became either an In<g ref="char:EOLhyphen"/>former or a malicious Sollicitor unto that Committee: how viperously and covetously he demeaned himself in that imployment, the purses of ma<g ref="char:EOLhyphen"/>ny unfortunate Gentlemen and Citizens well remember, but what advan<g ref="char:EOLhyphen"/>tage he made of his place, he best knows, being before that a poor snea<g ref="char:EOLhyphen"/>king fellow.</p>
+            <p>That Trade failing, about 1645. or 1646. he became a Quack in Chi<g ref="char:EOLhyphen"/>mistry, and sold his Extractions to the Apothecaries, some say he had so little knowledge of what he did, that but once giving some of his spirits to a near friend of his, she died within two dayes after: Finding himself a meer Botcher in Chymistry, and the Apothecaries weary of his Spirits, he de<g ref="char:EOLhyphen"/>clined that Trade, and procured Orders, and hath since intruded himself into the Ministery: <hi>Canterbury</hi> he left; <hi>Non vacat exiguis;</hi> no penny, no <hi>Pater Noster:</hi> How basely and niggardly he dealt with an excellent Schol<g ref="char:EOLhyphen"/>ler (who for one years space taught his <hi>Worshipfull Blockhead</hi> Chimistery,) I scorn to mention.</p>
+            <p>But now to some fragments of his Chat, the 5. of <hi>Novem.</hi> 1651. delivered for Catholick Doctrine by this fellow in the Pulpit, before the Mayor and Aldermen, as it was sent unto me from a good hand.</p>
+            <div type="sermon">
+               <head>The exact words and expressions which were uttered by Master <hi>Farmer</hi> in his Sermon at the Colledge of <hi>Bristoll</hi> the 5. day of <hi>November</hi> 1651. Concerning Mr. <hi>William Lilly.</hi>
+               </head>
+               <argument>
+                  <p>MAster <hi>Farmer</hi> was threatning the Congregation with the departure of the Gospell to <hi>America:</hi> and then, to make this good, he tels us of an another whose name wee forgot that had <hi>5.</hi> Prognosticks of the Gospels departing: the <hi>1.</hi> Was Height of Malice, the <hi>2.</hi> Was Prodigious Lust, the <hi>3.</hi> Was impudent sinning, the <hi>4.</hi> Was Increase of Witchcrafts, the <hi>5.</hi> Was comming in of Popery, and when he came to speak of the fourth of these namely Increase of Witchcrafts, he lashed against many in this City of <hi>Bristoll</hi> that did study that Art of Star-gazing and Astrology,
+<pb n="44" facs="tcp:154045:25"/> which he termed Witchcraft, and bid the people mark them, for they were some that had made some shew of Religion formerly, but now they had layd aside all religion, and were altogether studying that Act of Witchcraft, and then said, that those were Scholars of that grand Witch of them all, <hi>Lilly</hi> (I mean, said he) for there was not a three-penny Book of his that did come forth, but he was lashing against one godly Minister or other. These were his very words, as will be atested by a hundred witnesses if need be.</p>
+               </argument>
+               <head>A word or two unto Mr. <hi>Radulphus.</hi>
+               </head>
+               <p>IF himself be not a Witch, how knows he the Gospell is departing from us to <hi>America,</hi> pitty it is, th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re's so small a M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zin of wit in such a Lobsters head; But to his Prognost<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>q<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, for you see he is also now a<g ref="char:EOLhyphen"/>mongst the lesser Prophets.</p>
+               <p n="1">1. <hi>Height of Malice;</hi> he did well to begin with malice, himself being the most notoriously guilty, whilest h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> malit<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ously sl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nders the whole Na<g ref="char:EOLhyphen"/>tion, when as in truth, Malice a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds mo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Leviticall Tribe, into which he is now received as a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Adopted str<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing.</p>
+               <p n="2">2. <hi>Prodigious lust,</hi> if he means of the flesh, why doth he not accuse his own Carnality and brethren. The State hath made an Act against p odi<g ref="char:EOLhyphen"/>gious Lusts, they have acted thei<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> parts, I do wonder <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lph</hi> falls not to his old Trade of Informing, if he be a man of Conscience he ought to do it, but ah alas! There's no mony to be got by it.</p>
+               <p n="3">3. <hi>Impudent sinning;</hi> he that hates his N<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our Mr. <hi>Ralph,</hi> is an im<g ref="char:EOLhyphen"/>pudent sinner, and so you have, and so you will prove your self, being your self a younger son of <hi>Do<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g</hi> the <hi>Edomite.</hi>
+               </p>
+               <p n="4">4. <hi>Increase of Witchcraft.</hi> The reverend Judges who goe the Circuits of the whole Nation, are best able to ju<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge if this be true: But Astrol<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gy is Witchcraft as <hi>Ralph</hi> thinks; is this a fitting f<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llow to t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke upon h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>n stry, which can<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot distinguish betwixt <hi>Venus</hi> and a Hogg. Astro<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogie is the speech of the Stars; Let <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lph</hi> prove it Witchcraft. But <hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lly is a Grand Witch;</hi> If an Asse bray at me, or a Cur bark or yelp at me, shall I be angry; I sha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l be b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>essed, whilst such V<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmin as <hi>Fa<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> curse me: If an ig<g ref="char:EOLhyphen"/>norant An<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mall as b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g a <hi>Ralph Farme<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> call me Wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch in a frolick, I can retort him a Widgi<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in p<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>int, a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d an informer in g<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n for his labour, and when he shall speak sence or Reason, or to the th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng in question, h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shall hear further from the Pen of <hi>W. Lilly;</hi> who believes the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is a God, one God, and but one God; who abhors contracts w<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h Spirits, wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sowns Witchcraft, Sorcery all unlawfull Acts, who ab<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ors to think th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t there is any doth maintain a fatality or necssitie in the Stars; who studies Nature, and the works of God therein, no further then becomes a Christian, and a lover of Jesus Christ.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
